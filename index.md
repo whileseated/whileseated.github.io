@@ -1,12 +1,19 @@
 A representative sample of my writing(s) on photography, sorted by date.
 
-Preferred links point to **Medium** - if you encounter a paywall, please **click the archive link**.
+Preferred links point to **Medium** - if you encounter a paywall, please **click the archive link**. Articles without archive links were written specifically for Medium.
 
 ---
 
 ## 2018.04 - Michael Cohen’s Cigar Party —an Escapade in Photographic Forensics
 [[Medium link](https://medium.com/@whileseated/michael-cohen-cigar-pictures-51807588b854)]
 [![Michael Cohen’s Cigar Party —an Escapade in Photographic Forensics](https://cdn-images-1.medium.com/max/2560/1*Oa8ICRqUuL7X9eKrDbMLiA.png)](https://medium.com/@whileseated/michael-cohen-cigar-pictures-51807588b854)
+
+---
+
+## 2017.08 - Poking A Moment That's Passed
+Revisiting the sequence of events that yielded the “flamethrower” photograph in Charlottesville.
+[[Medium link](https://medium.com/@whileseated/poking-a-moment-thats-passed-e6f9a1cf164f)]
+[![Poking A Moment That's Passed](https://cdn-images-1.medium.com/max/2000/1*monGuZK3QsRDpRVCG-qUsw.jpeg)](https://medium.com/@whileseated/poking-a-moment-thats-passed-e6f9a1cf164f)
 
 ---
 
