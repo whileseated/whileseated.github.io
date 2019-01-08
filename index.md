@@ -5,6 +5,9 @@ A representative sample of writing(s) on photography, sorted by date. (Preferred
 **2016.07** - *Can I interrogate this photograph? Can I hold it here in front of me, arrested?* (Looking at Jonathan Bachman’s photograph of an arrest in Baton Rouge) - [[Medium link](https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb) & [Archive link](2016_Can-I-interrogate-this-photograph-Can-I-hold-it-here-in-front-of-me-arrested.md)]  
 > "What kind of Saturday was he looking for? Does it hurt too much to ask a question like that right now? How does a photograph enter the imagination and come out the other side, as something else entirely? Am I spending too much time talking about the police? Do I think they’re foolish, or do I think this photograph makes them look foolish? Do you?"
 
+![](https://cdn-images-1.medium.com/max/1600/1*q8BNLf2ykX41fyr5OkL5qQ.png)
+
+
 
 **2014.04** - *Foreign & Domestic* (Curating an exhibiton photographs from Mark Alor Powell and Hannah Pierce-Carlson at Columbus State University) - [[Medium link](https://medium.com/@whileseated/foreign-domestic-photographs-from-mark-alor-powell-and-hannah-pierce-carlson-76bf28cb2f8f) & [Archive link](2014_Foreign-Domestic.md)]  
 > "In the visual cacophony of a true megalopolis, Powell uses chaos to his advantage, drawing attention (compositionally & emotionally) to human authenticity; the little touches that make his subjects who they are. His is an exacting eye, carefully tuned to the weakness of power, and the strength of what’s hidden or unseen."  
