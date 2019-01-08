@@ -1,4 +1,10 @@
-A representative sample of my writing(s) on photography, sorted by date. Preferred links point to **Medium** - if you encounter their paywall, please **click the archive link**.
+A representative sample of my writing(s) on photography, sorted by date. Preferred links point to **Medium** - if you encounter a paywall, please **click the archive link**.
+
+---
+
+## 2018.04 - Michael Cohen’s Cigar Party —an Escapade in Photographic Forensics
+[[Medium link](https://medium.com/@whileseated/michael-cohen-cigar-pictures-51807588b854)
+[![Michael Cohen’s Cigar Party —an Escapade in Photographic Forensics](https://cdn-images-1.medium.com/max/2560/1*Oa8ICRqUuL7X9eKrDbMLiA.png)](https://medium.com/@whileseated/michael-cohen-cigar-pictures-51807588b854)
 
 ---
 
@@ -9,7 +15,7 @@ Looking at Jonathan Bachman’s photograph of an arrest in Baton Rouge.
 
 ---
 
-## 2014.04 - Foreign & Domestic 
+## 2014.04 - Foreign & Domestic
 Curating an exhibiton photographs from Mark Alor Powell and Hannah Pierce-Carlson at Columbus State University.  
 [[Medium link](https://medium.com/@whileseated/foreign-domestic-photographs-from-mark-alor-powell-and-hannah-pierce-carlson-76bf28cb2f8f) & [Archive link](2014_Foreign-Domestic.md)]  
 > "In the visual cacophony of a true megalopolis, Powell uses chaos to his advantage, drawing attention (compositionally & emotionally) to human authenticity; the little touches that make his subjects who they are. His is an exacting eye, carefully tuned to the weakness of power, and the strength of what’s hidden or unseen."  
@@ -30,4 +36,3 @@ Curating an exhibiton photographs from Mark Alor Powell and Hannah Pierce-Carlso
 ## 2008.07 - American Beauty  
 On the 50th Anniversary Edition of Robert Frank’s “The Americans” — originally published May, 2008, in The National — Abu Dhabi.  
 [[Medium link](https://medium.com/@whileseated/american-beauty-23a49eb042cb) & [Archive link](2008_American-Beauty.md)]  
-
