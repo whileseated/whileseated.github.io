@@ -3,8 +3,14 @@ A representative sample of my writing(s) on photography, sorted by date. Preferr
 ---
 
 ## 2018.04 - Michael Cohen’s Cigar Party —an Escapade in Photographic Forensics
-[[Medium link](https://medium.com/@whileseated/michael-cohen-cigar-pictures-51807588b854)
+[[Medium link](https://medium.com/@whileseated/michael-cohen-cigar-pictures-51807588b854)]
 [![Michael Cohen’s Cigar Party —an Escapade in Photographic Forensics](https://cdn-images-1.medium.com/max/2560/1*Oa8ICRqUuL7X9eKrDbMLiA.png)](https://medium.com/@whileseated/michael-cohen-cigar-pictures-51807588b854)
+
+---
+
+## 2016.12 - 'Today’s Threat Level: Orange' for Photos We Love
+[[Medium link](https://medium.com//@whileseated/todays-threat-level-orange-21b9f35b4cc0)]
+[!['Today’s Threat Level: Orange' for Photos We Love](https://cdn-images-1.medium.com/max/1000/1*98H97XPw-Rx0S14x8iz5Jw.jpeg)](https://medium.com//@whileseated/todays-threat-level-orange-21b9f35b4cc0)
 
 ---
 
