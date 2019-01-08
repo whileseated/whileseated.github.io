@@ -84,3 +84,5 @@ Frank’s book reminds me to hope for more of what can’t be easily described. 
 There’s always a place between where you started and where you’ll finish. That place may be where you’re sitting right now, or it may encompass everything you’ll ever know. Robert Frank had a hunch, and he went out with his camera to track it down. Many have followed. The truth is that while this edition of _The Americans_ is the last, and the printing was presided over by Frank himself, it may be his definitive work, but it needn’t be America’s, and it needn’t be yours.
 
 If I glean one thing from the pages of _The Americans_, it’s the suggestion that the road is still there, and it doesn’t belong to Robert Frank. The road’s mine and it’s yours, and we’re the only ones who’ll know what’s on it, so let’s go quickly, and soon, before our thoughts slow and stop wondering what the light looks like on an evening when anything seems possible, before the movie’s last reel and the credits unspool, before all the ideas are the same ideas, and especially before we start asking ourselves, “What if…?”
+
+— [Michael David Murphy](http://michaeldavidmurphy.com), 2008

@@ -9,9 +9,9 @@ keywords: ''
 slug: /@whileseated/reconsidering-winogrand-5b4b22f977a2
 ---
 
-![](https://cdn-images-1.medium.com/max/2000/1*7-nhE9LvvH76UcxkAJn27Q.jpeg)
+# Reconsidering Winogrand
 
-© Estate of Garry Winogrand
+{% include image.html href="" url="https://cdn-images-1.medium.com/max/2000/1*7-nhE9LvvH76UcxkAJn27Q.jpeg" description="(© Estate of Garry Winogrand)" %}
 
 _(This essay was written for the inaugural issue of_ [_PUBLICATION_](http://www.in-publication.com/)_, in the spring of 2009, and has been posted to Medium on Aug 3rd, 2016. Thanks to Nick Turpin, Tod Papageorge (Pace/Macgill), Eileen Hale & the Estate of Garry Winogrand (Fraenkel Gallery).)_
 
@@ -33,9 +33,7 @@ Winogrand’s alertness, easily misread as impatience or distraction, was most l
 
 Yet it’s this quotidian attraction to the unspooling of time that creates the through-line of Winogrand’s effort. That there are precise moments and places on the planet where the truly extraordinary occurs, without actors, curtains, or fancy equipment, and that these places are often narrow and vanishing; perfect for a photographer with his finger on the shutter. The spoiled analogy of photography as big game hunting backfires; Winogrand’s targets were no one else’s; at their best they were his only. A couple with two chimpanzees, two lovers with a fox approaching. Neither from the pages of a Field Guide.
 
-![](https://cdn-images-1.medium.com/max/1000/1*7-nhE9LvvH76UcxkAJn27Q.jpeg)
-
-© Estate of Garry Winogrand
+{% include image.html href="https://cdn-images-1.medium.com/max/1000/1*7-nhE9LvvH76UcxkAJn27Q.jpeg" url="" description="(© Estate of Garry Winogrand)" %}
 
 Too often summed-up as a visual trickster, Winogrand’s work may well have been one thing to him and something entirely different to the rest of us. And you can’t help but wonder if there was genius in the aggregate. Like Gerhard Richter’s “Atlas”, perhaps Winogrand’s greatest work wasn’t in the brilliant moments or creative editing, but in **The Complete Everything**, in the performative act of making hundreds of thousands of images, of the people, with the people?
 
@@ -63,9 +61,7 @@ And where would this picture be without the boy in the background at right, hold
 
 If the photographs after this image show a situation that could no longer “solve the problem” on a frame of film inside Winogrand’s camera, the images just before this one offer no inkling of what’s to come. On a contact sheet marked “London / Monkey”, the first shots on the roll are quiet pictures of a dinner with friends in London. Those were followed by a blank frame, and then boom. Welcome home, America.
 
-![](https://cdn-images-1.medium.com/max/2000/1*YNpBPfnVrQqHD0MNCtAR_A.jpeg)
-
-© Tod Papageorge, Pace/Macgill
+{% include image.html href="" url="https://cdn-images-1.medium.com/max/2000/1*YNpBPfnVrQqHD0MNCtAR_A.jpeg" description="(© Tod Papageorge, Pace/Macgill)" %}
 
 **So we have a situation**: the man with the camera, dedicated to the day in the fullest sense, wherever the pictures might be on a sunny afternoon in ’67. Not shooting solely on his own, but meeting up with Tod Papageorge at some point along the way. Who could say what might happen? Who could have known that the day would lead to this?
 
@@ -95,6 +91,6 @@ Winogrand’s omnivorousness for the image is what drove his greatest successes,
 
 In an era in which photography gets further away from its origins (for good and ill) and becomes the realm of “camera operators” and digital retouchers, Winogrand’s insatiable visual curiosity and unrivaled output has the strength and ability to ground us in the never-ending now. His task, to make pictures as often as possible that could satisfy that curiosity, has extreme relevance to the swelling audience of contemporary photography enthusiasts. Reframed, Winogrand’s output, not just the exhibition prints, or _The Animals_, _Stock Photographs_, _Public Relations_, or _Women are Beautiful_, but of _each roll_ that passed through his camera, may have been the real prize — the final piece.
 
----
+— [Michael David Murphy](http://michaeldavidmurphy.com), 2009
 
-_Originally published at_ [_2point8.whileseated.org_](http://2point8.whileseated.org/2010/01/31/reconsidering-winogrand/) _on January 31, 2010._
+---

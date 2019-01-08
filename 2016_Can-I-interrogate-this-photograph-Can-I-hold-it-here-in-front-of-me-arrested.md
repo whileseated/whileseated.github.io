@@ -12,9 +12,9 @@ slug: >-
   /@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb
 ---
 
-![](https://cdn-images-1.medium.com/max/2000/1*zj2226j4qTF_xRKRVPnRaA.jpeg)
+# Can I interrogate this photograph? Can I hold it here in front of me, arrested?
 
-Jonathan Bachman / Reuters
+{% include image.html href="" url="https://cdn-images-1.medium.com/max/2000/1*zj2226j4qTF_xRKRVPnRaA.jpeg" description="(Jonathan Bachman / Reuters)" %}
 
 This photograph by photojournalist [Jonathan Bachman](http://www.jonathanbachmanphotography.com/portfolio) from Baton Rouge is a few days old. It’s a difficult photo of a moment in American history that you won’t soon forget.
 
