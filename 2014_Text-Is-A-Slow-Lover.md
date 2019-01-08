@@ -9,6 +9,10 @@ keywords: ''
 slug: /@whileseated/text-is-a-slow-lover-e0568e11ab0e
 ---
 
+#Interview with Michael David Murphy about Unphotographable for Dash Magazine, Spring/Summer 2014
+
+(Questions in bold, by Brent Randall)
+
 **Michael, your first memories of photographs were the Kodachrome slides of holidays with your grandparents. What was it about those images and that time that spurred your interest in photography?**  
 I grew up in a US military family. We were always moving; East Coast, West Coast, lots of zigzagging and new schools. Nearly every Christmas I would see the Kodachromes my grandfather took. He was an amateur but knew what he liked and was good at it. The shots were satisfying because they never changed; they told the story of who my relatives were, how time passes and, by extension, whispered to me about who I was and might become.
 

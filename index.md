@@ -30,7 +30,7 @@ Looking at Jonathan Bachman’s photograph of an arrest in Baton Rouge.
 ---
 
 ## 2014.04 - Interview: Text Is A Slow Lover
-Interview with Michael David Murphy about Unphotographable for Dash Magazine, Spring/Summer 2014 (Questions in bold, by Brent Randall)
+Interview with Michael David Murphy about Unphotographable for Dash Magazine
 [[Medium link](https://medium.com/@whileseated/text-is-a-slow-lover-e0568e11ab0e) & [Archive link](2014_Text-Is-A-Slow-Lover.md)]  
 {% include image.html href="https://medium.com/@whileseated/text-is-a-slow-lover-e0568e11ab0e" url="https://cdn-images-1.medium.com/max/1000/1*MO9fJw_ovO-ylaRaO7CZqw.jpeg" description="(Interview about Unphotographable for Dash Magazine)" %}
 
