@@ -16,8 +16,9 @@ Revisiting the sequence of events that yielded Steve Helber's “flamethrower”
 
 ---
 
-## 2016.12 - 'Today’s Threat Level: Orange' for Photos We Love
-[[Medium link](https://medium.com/photos-we-love/todays-threat-level-orange-21b9f35b4cc0)]
+## 2016.12 - Today’s Threat Level: Orange
+A new look at, through, and beyond Brian Ulrich’s quiet masterpiece of post-9/11 American paranoia.
+[[Medium link](https://medium.com/photos-we-love/todays-threat-level-orange-21b9f35b4cc0) & [Archive link](2016_Todays-Threat-Level-Orange.md)]  
 {% include image.html href="https://medium.com/photos-we-love/todays-threat-level-orange-21b9f35b4cc0" url="https://cdn-images-1.medium.com/max/1000/1*98H97XPw-Rx0S14x8iz5Jw.jpeg" description="(© Walker Evans)" %}
 
 ---
