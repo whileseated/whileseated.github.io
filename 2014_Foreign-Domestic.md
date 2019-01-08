@@ -86,6 +86,6 @@ My wish in bringing them together for “**Foreign & Domestic**” is that the c
 
 (Michael David Murphy — 2014)
 
-  
+![](https://cdn-images-1.medium.com/max/700/gradv/29/81/40/1*p5hN33LFXUfXU5w682FElw.jpeg)
 
 Mark Alor Powell—Escalade, 2012
