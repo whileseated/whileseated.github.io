@@ -9,7 +9,7 @@ keywords: ''
 slug: /@whileseated/american-beauty-23a49eb042cb
 ---
 
-*American Beauty
+# American Beauty
 
 (On the 50th Anniversary Edition of Robert Frank’s “The Americans” — originally published May, 2008, in The National — Abu Dhabi.)  
 
