@@ -1,6 +1,6 @@
 A representative sample of writing(s) on photography, sorted by date. (Preferred links point to Medium - if you encounter their paywall, please click the archived link.)
 
-2014.04 - *Foreign & Domestic* (“Foreign & Domestic” — photographs from Mark Alor Powell and Hannah Pierce-Carlson, an exhibition at Columbus State University, March 12th-April 19) 
+2014.04 - *Foreign & Domestic* (Curating an exhibiton photographs from Mark Alor Powell and Hannah Pierce-Carlson at Columbus State University)  
 [[Medium link](https://medium.com/@whileseated/foreign-domestic-photographs-from-mark-alor-powell-and-hannah-pierce-carlson-76bf28cb2f8f) & [Archive link](2014_Foreign-Domestic.md)]  
 
 2011.02 - *A JPG Transcript of Jacques Derrida on Photography and Not Being Photographed*  
