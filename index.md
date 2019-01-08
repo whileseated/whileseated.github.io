@@ -5,8 +5,6 @@ Preferred links point to **Medium** - if you hit the paywall, please **click the
 ---
 
 ## 2018.04 - Michael Cohen’s Cigar Party —an Escapade in Photographic Forensics
-[![Michael Cohen’s Cigar Party —an Escapade in Photographic Forensics](https://cdn-images-1.medium.com/max/2560/1*Oa8ICRqUuL7X9eKrDbMLiA.png)](https://medium.com/@whileseated/michael-cohen-cigar-pictures-51807588b854)
-
 {% include image.html href="https://medium.com/@whileseated/michael-cohen-cigar-pictures-51807588b854" url="https://cdn-images-1.medium.com/max/2560/1*Oa8ICRqUuL7X9eKrDbMLiA.png" description="Michael Cohen’s Cigar Party — an Escapade in Photographic Forensics - on Medium" %}
 
 ---
@@ -25,9 +23,9 @@ Revisiting the sequence of events that yielded Steve Helber's “flamethrower”
 ---
 
 ## 2016.07 - Can I interrogate this photograph? Can I hold it here in front of me, arrested?
-[[Medium link](https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb) & [Archive link](2016_Can-I-interrogate-this-photograph-Can-I-hold-it-here-in-front-of-me-arrested.md)]  
 Looking at Jonathan Bachman’s photograph of an arrest in Baton Rouge.  
-[![Can I interrogate this photograph? Can I hold it here in front of me, arrested?](https://cdn-images-1.medium.com/max/1600/1*q8BNLf2ykX41fyr5OkL5qQ.png)](https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb)
+[[Medium link](https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb) & [Archive link](2016_Can-I-interrogate-this-photograph-Can-I-hold-it-here-in-front-of-me-arrested.md)]  
+{% include image.html href="https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb" url="https://cdn-images-1.medium.com/max/1600/1*q8BNLf2ykX41fyr5OkL5qQ.png" description="Can I interrogate this photograph? Can I hold it here in front of me, arrested? - on Medium" %}
 
 ---
 
