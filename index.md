@@ -2,7 +2,9 @@ A representative sample of writing(s) on photography. ***Featured pieces in bold
 
 Preferred links go to Medium - if you encounter their paywall, please click the archived link.
 
-2011.02 - A JPG Transcript of Jacques Derrida on Photography and Not Being Photographed [on Medium](https://medium.com/@whileseated/a-jpg-transcript-of-jacques-derrida-on-photography-and-not-being-photographed-64f22bbac06c)[archived link](2011_A-JPG-Transcript-of-Jacques-Derrida-on-Photography-and-Not-Being-Photographed.md)  
+2011.02 - *A JPG Transcript of Jacques Derrida on Photography and Not Being Photographed*  
+[on Medium](https://medium.com/@whileseated/a-jpg-transcript-of-jacques-derrida-on-photography-and-not-being-photographed-64f22bbac06c)  
+[archived link](2011_A-JPG-Transcript-of-Jacques-Derrida-on-Photography-and-Not-Being-Photographed.md)  
 
 2009.06 - Reconsidering Winogrand [ [on Medium](https://medium.com/@whileseated/reconsidering-winogrand-5b4b22f977a2) ] - [archived link](2009_Reconsidering-Winogrand.md)  
 
