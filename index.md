@@ -5,7 +5,7 @@ A representative sample of my writing(s) on photography, sorted by date. Preferr
 **2016.07** - **Can I interrogate this photograph? Can I hold it here in front of me, arrested?**  
 (Looking at Jonathan Bachman’s photograph of an arrest in Baton Rouge)  
 [[Medium link](https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb) & [Archive link](2016_Can-I-interrogate-this-photograph-Can-I-hold-it-here-in-front-of-me-arrested.md)]  
-![https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb](https://cdn-images-1.medium.com/max/1600/1*q8BNLf2ykX41fyr5OkL5qQ.png)
+[![Can I interrogate this photograph? Can I hold it here in front of me, arrested?](https://cdn-images-1.medium.com/max/1600/1*q8BNLf2ykX41fyr5OkL5qQ.png)](https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb)
 
 **2014.04** - **Foreign & Domestic**  
 (Curating an exhibiton photographs from Mark Alor Powell and Hannah Pierce-Carlson at Columbus State University)  
@@ -22,7 +22,13 @@ A representative sample of my writing(s) on photography, sorted by date. Preferr
 
 
 **2008.07** - **American Beauty**  
-(On the 50th Anniversary Edition of Robert Frank’s “The Americans” — originally published May, 2008, in The National — Abu Dhabi) - [[Medium link](https://medium.com/@whileseated/american-beauty-23a49eb042cb) & [Archive link](2008_American-Beauty.md)]  
+(On the 50th Anniversary Edition of Robert Frank’s “The Americans” — originally published May, 2008, in The National — Abu Dhabi)  
+[[Medium link](https://medium.com/@whileseated/american-beauty-23a49eb042cb) & [Archive link](2008_American-Beauty.md)]  
+
+---
+---
+
+TESTING AREA
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -30,3 +36,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 > "What kind of Saturday was he looking for? Does it hurt too much to ask a question like that right now? How does a photograph enter the imagination and come out the other side, as something else entirely? Am I spending too much time talking about the police? Do I think they’re foolish, or do I think this photograph makes them look foolish? Do you?"
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
