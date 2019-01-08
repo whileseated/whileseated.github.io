@@ -1,4 +1,6 @@
-A representative sample of my writing(s) on photography, sorted by date. Preferred links point to **Medium** - if you encounter a paywall, please **click the archive link**.
+A representative sample of my writing(s) on photography, sorted by date.
+
+Preferred links point to **Medium** - if you encounter a paywall, please **click the archive link**.
 
 ---
 
@@ -42,3 +44,11 @@ Curating an exhibiton photographs from Mark Alor Powell and Hannah Pierce-Carlso
 ## 2008.07 - American Beauty  
 On the 50th Anniversary Edition of Robert Frank’s “The Americans” — originally published May, 2008, in The National — Abu Dhabi.  
 [[Medium link](https://medium.com/@whileseated/american-beauty-23a49eb042cb) & [Archive link](2008_American-Beauty.md)]  
+
+---
+
+## 2008.01 - 'Off the Page: Tod Papageorge' for 8 Magazine
+[[Archive link](https://medium.com/photos-we-love/off-the-page-todd-papageorge-8d36c976c33f)]
+[!['Off the Page: Todd Papageorge' for 8 Magazine](https://cdn-images-1.medium.com/max/1400/1*7q7adUBxxs9qDTAmYTi0wA.jpeg)](https://medium.com/photos-we-love/off-the-page-todd-papageorge-8d36c976c33f)
+
+---
