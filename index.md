@@ -8,7 +8,7 @@ Preferred links point to **Medium** - if you encounter a paywall, please **click
 [[Medium link](https://medium.com/@whileseated/michael-cohen-cigar-pictures-51807588b854)]
 [![Michael Cohen’s Cigar Party —an Escapade in Photographic Forensics](https://cdn-images-1.medium.com/max/2560/1*Oa8ICRqUuL7X9eKrDbMLiA.png)](https://medium.com/@whileseated/michael-cohen-cigar-pictures-51807588b854)
 
-{% include image.html url="https://cdn-images-1.medium.com/max/2560/1*Oa8ICRqUuL7X9eKrDbMLiA.png" description="Lorem ipsum dolor sit amet" %}
+{% include image.html url="https://cdn-images-1.medium.com/max/2560/1*Oa8ICRqUuL7X9eKrDbMLiA.png" description="[[Medium link](https://medium.com/@whileseated/michael-cohen-cigar-pictures-51807588b854)]" %}
 
 
 ---
