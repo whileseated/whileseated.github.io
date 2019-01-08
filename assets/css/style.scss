@@ -34,14 +34,22 @@
        url('../fonts/open-sans-v15-latin-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif;
+}
+p, ul, li, a {
+    font-family: 'Lora', serif;
+}
+
 body {
 	color:#000;
 	font-weight: 300;
-	font-family: "Open Sans", Lora, Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 15px;	
 }
+
 header p 
 {font-weight: 300;}
+
 blockquote 
 {font-weight: 600;}
 
