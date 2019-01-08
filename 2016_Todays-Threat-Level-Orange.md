@@ -9,17 +9,15 @@ keywords: ''
 slug: /@whileseated/todays-threat-level-orange-21b9f35b4cc0
 ---
 
-![](https://cdn-images-1.medium.com/max/2000/1*_s3iKvPRucnwQidh0EX4dQ.jpeg)
+# Today’s Threat Level: Orange
+
+(A new look at, through, and beyond Brian Ulrich’s quiet masterpiece of post-9/11 American paranoia)
+
+{% include image.html href="" url="https://cdn-images-1.medium.com/max/2000/1*_s3iKvPRucnwQidh0EX4dQ.jpeg" description="(© Brian Ulrich)" %}
 
 (A new look at, through, and beyond Brian Ulrich’s quiet masterpiece of post-9/11 American paranoia, for [**Photos We Love**](https://medium.com/photos-we-love).)
 
-In March of this year, while Trump was touching all bases en-route to his electoral four-bagger, I found myself thinking back to this photograph of [Brian Ulrich](http://notifbutwhen.com/)’s. Here it is again:
-
-![](https://cdn-images-1.medium.com/max/800/1*gDx8f7GdD_mJuMzwH6eV8w.png)
-
-© [Brian Ulrich](http://notifbutwhen.com/)
-
-It’s _a quiet little picture._ A gas station window. A sign. A scene, essentialized.
+In March of this year, while Trump was touching all bases en-route to his electoral four-bagger, I found myself thinking back to this photograph of [Brian Ulrich](http://notifbutwhen.com/)’s. It’s _a quiet little picture._ A gas station window. A sign. A scene, essentialized.
 
 **As you step into Ulrich’s view, you come to know three things:**
 
@@ -31,15 +29,13 @@ In the ten years since I first saw this photograph, it’s rattled around my min
 
 Like this, from Walker Evans.
 
-![](https://cdn-images-1.medium.com/max/1000/1*98H97XPw-Rx0S14x8iz5Jw.jpeg)
-
-© Walker Evans
+{% include image.html url="https://cdn-images-1.medium.com/max/1000/1*98H97XPw-Rx0S14x8iz5Jw.jpeg" description="(© Walker Evans)" %}
 
 The photographic legacy of signs is that they make for fun pictures; easy juxtapositions, there for the taking. Or at least Evans thought so — if he didn’t explicitly write it down, his photos showed the way.
 
 And by extension, the inescapability of this odd old favorite from down the road in Macon in 1972, via Stephen Shore’s _American Surfaces_:
 
-![](https://cdn-images-1.medium.com/max/800/1*uhfzyvw6xAq5mdQaz_fxqQ.gif)
+{% include image.html url="https://cdn-images-1.medium.com/max/800/1*uhfzyvw6xAq5mdQaz_fxqQ.gif" %}
 
 Signs as markers, as warnings, as advertisements, yells, hollers and cat-calls at your imperfections. Signs that remind you how far you have to go before you get home.
 
@@ -57,9 +53,9 @@ It felt so good to [Matthew Heimbach](https://www.splcenter.org/fighting-hate/ex
 
 Here’s Matthew on the left, in the red hat, passing along his anger to a veteran, who likely fought alongside men who died for Kashiya’s right to safely attend and protest a political rally.
 
-![](https://cdn-images-1.medium.com/max/400/1*5MOrhDswA7_SfRleduX0TA.gif)
+{% include image.html url="https://cdn-images-1.medium.com/max/400/1*5MOrhDswA7_SfRleduX0TA.gif" %}
 
-![](https://cdn-images-1.medium.com/max/800/1*XLC8z0Uhv3PXKsciP5-lLw.gif)
+{% include image.html url="https://cdn-images-1.medium.com/max/800/1*XLC8z0Uhv3PXKsciP5-lLw.gif" %}
 
 **This isn’t news.** You’ve seen this (and episodes like it) on repeat all year: you know the story.
 
@@ -83,13 +79,13 @@ It called itself “the alt-right” and strutted around. It hitched-up its big 
 
 Here’s Chelsea Handler, doing a sit-down with Heimbach for the 3rd episode of her Netflix show, [Chelsea Does](https://en.wikipedia.org/wiki/Chelsea_Does#Episodes), which aired three months before Heimbach shoved Nwanguma in Louisville.
 
-![](https://cdn-images-1.medium.com/max/800/1*NagDXyXJ8G8h7QF4hripyA.png)
+{% include image.html url="https://cdn-images-1.medium.com/max/800/1*NagDXyXJ8G8h7QF4hripyA.png" %}
 
 “It’s not wrong that I want my grandchildren to look like me.”
 
 And here’s the New York Times’ front-page story from November about an “[alt-right makeover](http://www.nytimes.com/2016/12/10/us/alt-right-national-socialist-movement-white-supremacy.html)” with Heimbach as their family-friendly cover-boy, as photographed by [Ty Wright](http://tywrightphotography.com/):
 
-[![](https://cdn-images-1.medium.com/max/800/1*rCCw063FGQZLy-LNPbKjkw.png)](http://www.nytimes.com/2016/12/10/us/alt-right-national-socialist-movement-white-supremacy.html)
+{% include image.html href="http://www.nytimes.com/2016/12/10/us/alt-right-national-socialist-movement-white-supremacy.html" url="https://cdn-images-1.medium.com/max/800/1*rCCw063FGQZLy-LNPbKjkw.png" description="()" %}
 
 As outlined on any site you care to search, Heimbach’s goal is to geographically divide-up America into zones that separate us by race and religion. Full stop. No link necessary.
 
@@ -101,7 +97,7 @@ It’s stressful to stay plugged-in, to keep-up with the day-to-day efforts of t
 
 When you say, “oh, we’ll just see what happens,” [here’s what happened](https://usaelectionmonitor.ushahidi.io/views/map), starting November 9th:
 
-[![](https://cdn-images-1.medium.com/max/1000/1*DsVt0MYZQ10TZB4GRVL3rg.png)](https://usaelectionmonitor.ushahidi.io/views/map)
+{% include image.html href="https://usaelectionmonitor.ushahidi.io/views/map" url="https://cdn-images-1.medium.com/max/1000/1*DsVt0MYZQ10TZB4GRVL3rg.png" description="()" %}
 
 Here’s what happened at my daughter’s school, where she’s a pre-K student, less than 10 days after the election: a man approached the school, waving a large American flag, yelling “I HATE NIGGERS! I HATE NIGGERS!” Cops were called and the school went on lock-down.
 
@@ -115,9 +111,7 @@ There’s a way to say what should be said, but I can’t find a way to do it he
 
 **The morning of 9/11**, I was in the wilderness on the border of Nevada and California, surrounded by some of the [oldest-living things on earth](https://en.wikipedia.org/wiki/Bristlecone_pine). The skies were quiet. That night, the stars were so close, I could feel the earth’s rotation — the whole thing slipping slightly, right beneath my feat.
 
-![](https://cdn-images-1.medium.com/max/800/1*4p4iMApmAJlAvjWKIUg4HQ.jpeg)
-
-A bristlecone pine on 9/11.
+{% include image.html href="" url="https://cdn-images-1.medium.com/max/800/1*4p4iMApmAJlAvjWKIUg4HQ.jpeg" description="(A bristlecone pine on 9/11.)" %}
 
 In time, I changed; you changed. Photographers changed. Cashiers at gas stations became different cashiers who knew fewer details. Over time, the woman or man who owned the gas station felt like everyone was passing her by on their way to some other place, some better place where news was made, where people were fancy and proud about where they went to school.
 
@@ -153,7 +147,7 @@ While filming [Rocky IV](https://en.wikipedia.org/wiki/Rocky_IV) in Wyoming, a s
 
 In the last decade, there became a point when politicians (especially on the Right) had lathered themselves with enough **Homeland** and enough **Security** that the combination began to feel normal, even when the _Department of_ tried to [hack Georgia’s voter registration database on election day](http://thehill.com/policy/technology/310812-dhs-responds-to-hacking-accusations-from-georgia). It subsumed itself as normal with terminal velocity. We embraced the idea so hard, as if the more we said the words, “we must protect the homeland,” the safer we’d be.
 
-![](https://cdn-images-1.medium.com/max/800/1*zYv5hdGuUbhOiZgaTz6fkg.jpeg)
+{% include image.html url="https://cdn-images-1.medium.com/max/800/1*zYv5hdGuUbhOiZgaTz6fkg.jpeg" %}
 
 Can “the homeland” be defended from an idea? Will we wage a war against the kind of hate, fear and intolerance promoted by Team Trump, or will we treat it as [a business we can sell ads against](https://twitter.com/joehagansays/status/809954441550057472)? When Google says they’ll allow themselves to be gamed by SEO rather than [do what’s responsible](https://twitter.com/_cingraham/status/808784700953268224) when linking to Stormfront, where are we then? Where are we when a [Heimbach](https://twitter.com/MatthewHeimbach) or [Spencer](https://twitter.com/RichardBSpencer) are **_verified_**\-Twitter users, leveraging a platform idealistically built around mid-90s libertarian/Bay Area’n values into a worldwide mouthpiece for hate-speech?
 
@@ -161,7 +155,7 @@ When “[an existential threat](http://www.nytimes.com/2016/11/03/opinion/campai
 
 **Everyone wants to make money while Rome burns.** It’s the American way! If we’re not going to check ourselves collectively, perhaps we can start now, and ask the hard questions personally, internally if need be. You can even whisper. Sure, put tape over your laptop camera! Use TOR and Signal! We’ll all be safe then, right?
 
-![](https://cdn-images-1.medium.com/max/800/1*EF0XTJ-aR9b0OrfTgYY9BA.gif)
+{% include image.html url="https://cdn-images-1.medium.com/max/800/1*EF0XTJ-aR9b0OrfTgYY9BA.gif" %}
 
 **In Ulrich’s photograph, the threat is empty,** transparent, unrealized, over-the-shoulder, easily conscripted into whichever color needs current demonization. Flavor-of-the-month threat. Threat of what’s unknown or hard to define as the fill-in-the-blank threat — Mad Libs threat.
 
