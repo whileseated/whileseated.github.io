@@ -2,11 +2,45 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+
+/* lora-regular - latin */
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/lora-v12-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Lora Regular'), local('Lora-Regular'),
+       url('../fonts/lora-v12-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/lora-v12-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/lora-v12-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/lora-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/lora-v12-latin-regular.svg#Lora') format('svg'); /* Legacy iOS */
+}
+
+/* open-sans-regular - latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/open-sans-v15-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Open Sans Regular'), local('OpenSans-Regular'),
+       url('../fonts/open-sans-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/open-sans-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/open-sans-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/open-sans-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/open-sans-v15-latin-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
+
 body {
 	color:#000;
 	font-weight: 600;
+	font-family: Lora, "Open Sans", Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;	
 }
 header p 
 {font-weight: 300;}
 blockquote 
 {font-weight: 300;}
+
