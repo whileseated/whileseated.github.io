@@ -12,8 +12,7 @@ A representative sample of writing(s) on photography, sorted by date. (Preferred
 > "It’s this quotidian attraction to the unspooling of time that creates the through-line of Winogrand’s effort. That there are precise moments and places on the planet where the truly extraordinary occurs, without actors, curtains, or fancy equipment, and that these places are often narrow and vanishing; perfect for a photographer with his finger on the shutter."  
 
 
-**2008.07** - *American Beauty* (On the 50th Anniversary Edition of Robert Frank’s “The Americans” — originally published May, 2008, in The National — Abu Dhabi.)  
-[([Medium link](https://medium.com/@whileseated/american-beauty-23a49eb042cb) & [Archive link](2008_American-Beauty.md))  
+**2008.07** - *American Beauty* (On the 50th Anniversary Edition of Robert Frank’s “The Americans” — originally published May, 2008, in The National — Abu Dhabi) - [[Medium link](https://medium.com/@whileseated/american-beauty-23a49eb042cb) & [Archive link](2008_American-Beauty.md)]  
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
