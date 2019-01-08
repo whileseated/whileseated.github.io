@@ -43,6 +43,8 @@ It’s photographic blowback. Left with the spectacle of the end result, you can
 
 His photograph is and isn’t a picture of a couple carrying chimps. Sure, it’s what it _is_, but it isn’t _all_ it is. Winogrand’s photographs aren’t billboards advertising the wink-and-nod of The Perfect Moment™, they’re more like dispatches from a man with a stop time device, a photographer both at odds and in love with a social contract that states, you can look, but please don’t linger.
 
+---
+
 **Winogrand’s best photographs** do two things extremely well. The picture of the couple with the chimpanzees plainly describes a particular point of view on a chilly day in 1967 with extreme clarity. But the clearness of its description is like verse’s iambic pentameter, it’s another way to make the words slide easily into the ear. The clarity enables you to believe you know exactly what you’re seeing: two people carrying chimps. Or rather, a black man and a white woman carrying chimps as if they were their children, on a sunny afternoon in the park.
 
 It’s a trick, really, the greatest tool a non-fiction photographer has in the bag: How can I make this thing you’ve never seen look approachable and oddly familiar? I’ll make it plain as day, black and white. Winogrand’s pictures might occasionally be out of this world, but they’re always of this earth, bound by gravity, chemistry, and light.
