@@ -53,5 +53,15 @@ header p
 blockquote
 {font-weight: 600;}
 
+figure
+{
+margin-inline-start: 4px;
+margin-inline-end: 4px;
+}
+
 figcaption
-{text-align: center;}
+{
+  text-align: center;
+  font-size: 12px;
+  font-family: 'Lora', serif;
+}
