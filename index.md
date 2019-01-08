@@ -48,7 +48,7 @@ On the 50th Anniversary Edition of Robert Frank’s “The Americans” — 
 ---
 
 ## 2008.01 - 'Off the Page: Tod Papageorge' for 8 Magazine
-[[Archive link](https://medium.com/photos-we-love/off-the-page-todd-papageorge-8d36c976c33f)]
-[!['Off the Page: Todd Papageorge' for 8 Magazine](https://cdn-images-1.medium.com/max/1400/1*7q7adUBxxs9qDTAmYTi0wA.jpeg)](https://medium.com/photos-we-love/off-the-page-todd-papageorge-8d36c976c33f)
+[[Archive link](2008_Off-the-Page-Tod-Papageorge.md)]
+[!['Off the Page: Todd Papageorge' for 8 Magazine](https://cdn-images-1.medium.com/max/1400/1*7q7adUBxxs9qDTAmYTi0wA.jpeg)](2008_Off-the-Page-Tod-Papageorge.md)
 
 ---
