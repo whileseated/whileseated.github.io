@@ -14,7 +14,7 @@ slug: >-
 Since I started photographing, I’ve been fascinated by [_not photographing_](http://unphotographable.com/) and the politics, problems, and peculiarities that surround what it means to make (or not make) a picture. Jacques Derrida, who famously refused photos of himself on his book own jackets, spoke of his photographic-fear in [this interview on youtube](http://www.youtube.com/watch?v=4RjLOxrloJ0), which may or may not be from [this documentary](http://www.imdb.com/title/tt0303326/), it’s been a few years since I watched it.
 
 Below, a transcript of the interview, as a sequence of cropped (and subtitled) screenshots.
-
+ 
 <p align="center">
   <img width="450" height="87" src="https://cdn-images-1.medium.com/max/800/0*a5bNiFDAh6OFnBwh.jpg">
 </p>
