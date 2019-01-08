@@ -1,6 +1,7 @@
 A representative sample of writing(s) on photography, sorted by date. (Preferred links point to Medium - if you encounter their paywall, please click the archived link.)
 
 2014.04 - *Foreign & Domestic* (Curating an exhibiton photographs from Mark Alor Powell and Hannah Pierce-Carlson at Columbus State University)  
+> "In the visual cacophony of a true megalopolis, Powell uses chaos to his advantage, drawing attention (compositionally & emotionally) to human authenticity; the little touches that make his subjects who they are. His is an exacting eye, carefully tuned to the weakness of power, and the strength of what’s hidden or unseen."
 [[Medium link](https://medium.com/@whileseated/foreign-domestic-photographs-from-mark-alor-powell-and-hannah-pierce-carlson-76bf28cb2f8f) & [Archive link](2014_Foreign-Domestic.md)]  
 
 2011.02 - *A JPG Transcript of Jacques Derrida on Photography and Not Being Photographed*  
