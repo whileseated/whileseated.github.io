@@ -27,6 +27,8 @@ A diffuser by photographic nature, there are few pictures and fewer videos that 
 
 Winogrand’s alertness, easily misread as impatience or distraction, was most likely a state of hyper awareness, in which any small flash of visual stimuli might lead to something both wonderful and surprising, and you better be ready to capture it so Let’s Do This. And yet, while Winogrand emerged from the darkroom with photographs that delineate the attentions of a man clearly focused on incongruities writ large; hypocrisies of a nation; the impossibilities of connection; illuminating the surface tension between us all that keeps us apart; it’s easy to imagine him saying, “yeah, but it’s just a picture of a guy on the street.”
 
+---
+
 **Waking-up in the morning** and knowing you may or may not make a good picture but the day is as good as any other, and every day is worth a try, just as the people you might meet are worth engaging with, and the light is as good as on any other day — at the least good enough to burn some film and work a few hours on the street without having a specific destination; it’s a kind of morning relatively few photographers have the fortune to greet.
 
 Yet it’s this quotidian attraction to the unspooling of time that creates the through-line of Winogrand’s effort. That there are precise moments and places on the planet where the truly extraordinary occurs, without actors, curtains, or fancy equipment, and that these places are often narrow and vanishing; perfect for a photographer with his finger on the shutter. The spoiled analogy of photography as big game hunting backfires; Winogrand’s targets were no one else’s; at their best they were his only. A couple with two chimpanzees, two lovers with a fox approaching. Neither from the pages of a Field Guide.
@@ -51,6 +53,8 @@ It’s a trick, really, the greatest tool a non-fiction photographer has in the 
 
 And his best work ratchets between these two poles; the clarity of obvious documentary vs. the scrambling of the senses when seeing something just this side of unimaginable. It’s the kind of back-and-forth that leads one in a few directions; straight back to the photographer, and the who/what/why/how of intention, or to the facts of the picture itself, and how those facts, clearly illustrated, yield a never-ending chorus of questions.
 
+---
+
 **Miscegenation is not quite as provocative as it was in the 60s**, but until June 12th, 1967, interracial marriage in the US was still illegal in 16 states. Winogrand’s couple wasn’t just perfectly addressing a political issue by being themselves, walking down the street (carrying chimps), they were doing it in style, the man in suit-and-tie business attire, the woman with a scarf covering her head, and each with a chimp calmly clinging to his lapel and her collar.
 
 The chimps were clothed, which makes the picture look like a family portrait, and the direction in which the humans are looking vs. the chimps adds psychological (and generational) weight to the composition. But you know this already. You know that the frames that follow this particular image are doing one thing well, but a few other things wrong, and that, of the series, _this_ image is the only one in which all the elements contribute to a satisfying whole. Then again, depending on the season, this photograph feels either bullet proof, or riddled with holes. Some days I can see it for what it is, other days it looks like what it’s not.
@@ -73,6 +77,8 @@ But Winogrand’s failures allow for the successes in an organic way, as both ti
 
 And if you’re a photographer as prolific as Winogrand, who shot at an unfathomable rate, especially considering he was shooting with film, perhaps the most interesting product of all isn’t the finished prints or the exhibitions or published books, but the fact that you were out there, and living it, and shooting everything you could that might possibly become a good photograph, and that your effort (backed-up by the brilliance of your successes) was as much the product as anything.
 
+---
+
 **In 2000**, when digital cameras began to be affordable by average consumers interested in making photographic images (or just taking pictures) people were thrilled by the fact that the images were essentially free, that they could take as many pictures that they liked, and that the photos didn’t have to be of anything in particular. You didn’t have to save film for special occasions. You could freely photograph anything you desired, life as you knew it, rapid fire.
 
 Photographer’s digital archives began to balloon under all that freedom, and even lazy weekend photographers found themselves sifting through tens of thousands of images. Some began to feel the weight of all that freedom; the ungainly Archive of Everything weighing down their hard drives.
@@ -83,8 +89,12 @@ It’s in this spirit that I sometimes consider Winogrand to be the first digita
 
 Winogrand’s omnivorousness for the image is what drove his greatest successes, like the couple with the chimps. Which is not to say that anyone with eagerness and the right equipment will become a great photographer. But I think Winogrand’s spirit lies less with the academics, and more with the kid who just got his older brother’s hand-me-down Canon Rebel and is about to stumble across a copy of _The Animals_ in the school library during study hall.
 
+---
+
 **If photography is a serious form of play**, than Winogrand was an aesthetic athlete, always ready for kickoff, and his highlight reels remain. But one can’t help but wonder what gems (both historically and aesthetically) might be uncovered if the entirety of his archives were digitized and available not just to scholars, but to the proverbial kid in study hall. It’s a task for the “hive mind”: to reach a new understanding about an artist so ahead of his time that he himself never had the chance to reflect and assess the entirety of what he’d created.
 
 In an era in which photography gets further away from its origins (for good and ill) and becomes the realm of “camera operators” and digital retouchers, Winogrand’s insatiable visual curiosity and unrivaled output has the strength and ability to ground us in the never-ending now. His task, to make pictures as often as possible that could satisfy that curiosity, has extreme relevance to the swelling audience of contemporary photography enthusiasts. Reframed, Winogrand’s output, not just the exhibition prints, or _The Animals_, _Stock Photographs_, _Public Relations_, or _Women are Beautiful_, but of _each roll_ that passed through his camera, may have been the real prize — the final piece.
+
+---
 
 _Originally published at_ [_2point8.whileseated.org_](http://2point8.whileseated.org/2010/01/31/reconsidering-winogrand/) _on January 31, 2010._

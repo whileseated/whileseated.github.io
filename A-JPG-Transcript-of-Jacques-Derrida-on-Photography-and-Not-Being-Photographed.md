@@ -15,6 +15,10 @@ Since I started photographing, I’ve been fascinated by [_not photographing_](h
 
 Below, a transcript of the interview, as a sequence of cropped (and subtitled) screenshots.
 
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
 ![](https://cdn-images-1.medium.com/max/800/0*a5bNiFDAh6OFnBwh.jpg)
 
 ![](https://cdn-images-1.medium.com/max/800/0*-bFYzp_Jaj7XSS2w.jpg)
