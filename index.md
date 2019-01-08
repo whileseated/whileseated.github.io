@@ -29,6 +29,13 @@ Looking at Jonathan Bachman’s photograph of an arrest in Baton Rouge.
 
 ---
 
+## 2014.04 - Interview: Text Is A Slow Lover
+Interview with Michael David Murphy about Unphotographable for Dash Magazine, Spring/Summer 2014 (Questions in bold, by Brent Randall)
+[[Medium link](https://medium.com/@whileseated/text-is-a-slow-lover-e0568e11ab0e) & [Archive link](2014_Text-Is-A-Slow-Lover.md)]  
+{% include image.html href="https://medium.com/@whileseated/text-is-a-slow-lover-e0568e11ab0e" url="https://cdn-images-1.medium.com/max/1000/1*MO9fJw_ovO-ylaRaO7CZqw.jpeg" %}
+
+---
+
 ## 2014.04 - Foreign & Domestic
 Curating an exhibiton photographs from Mark Alor Powell and Hannah Pierce-Carlson at Columbus State University.  
 [[Medium link](https://medium.com/@whileseated/foreign-domestic-photographs-from-mark-alor-powell-and-hannah-pierce-carlson-76bf28cb2f8f) & [Archive link](2014_Foreign-Domestic.md)]  
