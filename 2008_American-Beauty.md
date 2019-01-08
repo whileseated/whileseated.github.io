@@ -25,9 +25,7 @@ I never owned _The Americans_ but it was one of those books that turned me away 
 
 Even years later, in my first months in San Francisco, in Lawrence Ferlinghetti’s bookshop City Lights, the centre of the still-flickering Beat universe, I’d sit for hours in the rickety chair of the upstairs poetry room and steal another look at _The Americans_ while pigeons visited the window, while the clotheslines of across-the-alley Chinatown fluttered their laundry on a breeze.
 
-![](https://cdn-images-1.medium.com/max/800/1*uOQjtHV3CM-BBPgtUpDZDg.jpeg)
-
-Picture of City Lights’ Poetry Room by Karsten Lemm — [http://www.kalemm.com/](http://www.kalemm.com/)
+{% include image.html url="https://cdn-images-1.medium.com/max/800/1*uOQjtHV3CM-BBPgtUpDZDg.jpeg" description="(Picture of City Lights’ Poetry Room by Karsten Lemm)" %}
 
 All of this has nothing to do with Frank, or his book, really. Writing about _The Americans_ is like writing about air: if you try to define it, you end up saying nothing. Better to say nothing and see where you end up.
 
@@ -53,9 +51,7 @@ It’s a perfect blur: a rush of images, each one bleeding into the next, very m
 
 _The Americans_ is the kind of work that could only have been made by an outsider, someone as engaged with humanism as he was “against indifference,” as Frank used to like to say. Initially, _The Americans_ was not even published in the United States. In Paris, Robert Delpire backed the first edition in 1958, and it was another year before Grove Press, a literary imprint aligned with the Beats, published it in the States.
 
-![](https://cdn-images-1.medium.com/max/1000/1*5i0Hoqei5rW74h-H28eLhQ.jpeg)
-
-Picture of 1st edition by Robert Ashby — [http://j.mp/1jGhLyH](http://j.mp/1jGhLyH)
+{% include image.html url="https://cdn-images-1.medium.com/max/1000/1*5i0Hoqei5rW74h-H28eLhQ.jpeg" description="(Picture of 1st edition by Robert Ashby)" %}
 
 A chance meeting with Jack Kerouac single-handedly jump-started interest in _The Americans_; Frank showed him prints from the book, and Kerouac agreed to write a foreword. Ironically, _The Americans_ followed the crest of Kerouac’s triumph as spontaneous-poet-prophet, preceding Kerouac’s drunken disintegration and failure to change the world in the way that he might have had he had more discipline. And _The Americans_ came years before Dylan changed the world in a way that could never have been achieved without discipline. Frank’s work was a bridge between beat hipster idealism and Getting Things Done.
 
@@ -63,9 +59,7 @@ Which is one reason why it’s lasted. Because it was capital-W Work. While Fran
 
 When facing the reflection of its own content, the book doesn’t turn away, and it never coasts. Frank’s pictures squarely confront power, the misuse of power, the failings of power, what power looks like when it’s been drained from the faces of men, how power can be contained by silence, how quiet jukeboxes can be when they contain all the great songs you’ve never heard, and how loud they are when they play all the bad songs you’ll never forget.
 
-![](https://cdn-images-1.medium.com/max/800/1*JLE3V2BPRuLToUCwH-YXlA.jpeg)
-
-Robert Frank — Steidl
+{% include image.html url="https://cdn-images-1.medium.com/max/800/1*JLE3V2BPRuLToUCwH-YXlA.jpeg" description="(Robert Frank — Steidl)" %}
 
 Two days ago, I left Atlanta on a trip to find an old cheap chair. I was heading to a town far enough away to be country, but close enough to still be a day trip, and as I left the skyline behind I realised I was smiling, and had been, for about 20 minutes, because there was a road ahead, and I knew where the map said it was going, but I didn’t know what it looked like there, and hell yeah, I was excited to find out.
 
@@ -77,9 +71,7 @@ It’s simple, really. Reading Steidl’s reprinting of _The Americans_, where t
 
 Much can be made of what Frank chooses to see, and what he puts into his frames. The overriding arc in _The Americans_ is that the pictures feel as if they were made by a feeling, thinking human, rather than someone trying to make photographs that look like art for the Christie’s auction. There’s a quick mind behind the book’s main equation, which is this: how we see is less important than what is seen. The former are questions for a machine: which lens? Which film? Which speed? The latter includes the most severe and gut-wrenching choices for a dedicated, free-thinking artist.
 
-![](https://cdn-images-1.medium.com/max/800/1*DG4161CN_RxhPFUVinuh2A.jpeg)
-
-Robert Frank’s “Trolley — New Orleans, 1955" — Steidl
+{% include image.html url="https://cdn-images-1.medium.com/max/800/1*DG4161CN_RxhPFUVinuh2A.jpeg" description="(Robert Frank’s “Trolley — New Orleans, 1955" — Steidl)" %}
 
 For a Swiss on an American odyssey, Frank’s imperfectly odd way of seeing is the book’s best asset. It’s both Frank’s way and the highway, with the roads of America yielding an infinite riff of possibilities, regardless of where the end is, and what the air sounds like there. Though the Great American Road Trip is quickly becoming a petroleum-based impossibility, when you look at _The Americans_ you get the sense that there’s a wealth of pictures still out there.
 
