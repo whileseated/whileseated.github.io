@@ -2,7 +2,7 @@ A representative sample of my writing(s) on photography, sorted by date. Preferr
 
 ---
 
-## 2016.07 - Can I interrogate this photograph? Can I hold it here in front of me, arrested?
+### 2016.07 - Can I interrogate this photograph? Can I hold it here in front of me, arrested?
 (Looking at Jonathan Bachman’s photograph of an arrest in Baton Rouge)  
 [[Medium link](https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb) & [Archive link](2016_Can-I-interrogate-this-photograph-Can-I-hold-it-here-in-front-of-me-arrested.md)]  
 
