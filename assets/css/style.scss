@@ -55,13 +55,14 @@ blockquote
 
 figure
 {
-margin-inline-start: 4px;
-margin-inline-end: 4px;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
 }
 
 figcaption
 {
   text-align: center;
-  font-size: 12px;
+  font-size: 11px;
   font-family: 'Lora', serif;
+  margin-top: -6px;
 }
