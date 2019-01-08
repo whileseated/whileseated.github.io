@@ -13,8 +13,6 @@ Preferred links point to **Medium** - if you encounter a paywall, please **click
 ## 2017.08 - Poking A Moment That's Passed
 Revisiting the sequence of events that yielded Steve Helber's “flamethrower” photograph in Charlottesville.
 [[Medium link](https://medium.com/@whileseated/poking-a-moment-thats-passed-e6f9a1cf164f)]
-[![Poking A Moment That's Passed](https://cdn-images-1.medium.com/max/2000/1*monGuZK3QsRDpRVCG-qUsw.jpeg)](https://medium.com/@whileseated/poking-a-moment-thats-passed-e6f9a1cf164f)
-
 {% include image.html href="https://medium.com/@whileseated/poking-a-moment-thats-passed-e6f9a1cf164f" url="https://cdn-images-1.medium.com/max/2000/1*monGuZK3QsRDpRVCG-qUsw.jpeg" description="© Steve Helber" %}
 
 ---
