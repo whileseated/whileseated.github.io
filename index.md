@@ -9,9 +9,9 @@ A representative sample of writing(s) on photography, sorted by date. (Preferred
 2011.02 - *A JPG Transcript of Jacques Derrida on Photography and Not Being Photographed*  
 [[Medium link](https://medium.com/@whileseated/a-jpg-transcript-of-jacques-derrida-on-photography-and-not-being-photographed-64f22bbac06c) & [Archive link](2011_A-JPG-Transcript-of-Jacques-Derrida-on-Photography-and-Not-Being-Photographed.md)]  
 
-2009.06 - *Reconsidering Winogrand*  
+2009.06 - *Reconsidering Winogrand* - [[Medium link](https://medium.com/@whileseated/reconsidering-winogrand-5b4b22f977a2) & [Archive link](2009_Reconsidering-Winogrand.md)]  
 > "It’s this quotidian attraction to the unspooling of time that creates the through-line of Winogrand’s effort. That there are precise moments and places on the planet where the truly extraordinary occurs, without actors, curtains, or fancy equipment, and that these places are often narrow and vanishing; perfect for a photographer with his finger on the shutter."  
-[([Medium link](https://medium.com/@whileseated/reconsidering-winogrand-5b4b22f977a2) & [Archive link](2009_Reconsidering-Winogrand.md)]  
+
 
 2008.07 - *American Beauty* (On the 50th Anniversary Edition of Robert Frank’s “The Americans” — originally published May, 2008, in The National — Abu Dhabi.)  
 [([Medium link](https://medium.com/@whileseated/american-beauty-23a49eb042cb) & [Archive link](2008_American-Beauty.md))  
