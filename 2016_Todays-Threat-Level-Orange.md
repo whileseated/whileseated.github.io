@@ -39,7 +39,7 @@ Signs as markers, as warnings, as advertisements, yells, hollers and cat-calls a
 
 I can’t think of a contemporary photograph of a sign that’s stuck with me more than Brian’s, but what’s lingered is how much the photo’s message has changed with the times (and the medium?)
 
---
+---
 
 In the early aughts, we looked to the skies and worried about attacks from above. Fear wasn’t abstract. The approaching whine of a low-flying jet made people duck their heads and wince.
 
@@ -47,7 +47,7 @@ The fear then was external. On the morning of 9/11, my mother-in-law was delayed
 
 For most, the American sky has proverbially been as wide as the land and open for anything, but after 9/11 (and for the first time for many) the wide-open American sky felt suffocating, it represented a kind of known unknown, a trigger that just might blow. What was unimaginable had struck New York, DC, and Shanksville — unlike lightning, it might strike again.
 
---
+---
 
 **Flash forward to 2016, this unending year of awful**, and specifically March 1st, when Trump stole away to Louisville, Kentucky, to rouse his rabblers into a froth no one had let them feel in public for years. Trump rallies were a safe space that embraced their hate. Airing it out felt good to them. Airing it out felt good to men.
 
@@ -73,7 +73,7 @@ When a child-sized American flag in a girl’s hand is a threat, we’re pretty 
 
 And now, we’re so far away, it’s hard to tell how we’ve arrived here, exactly, and where the hell are we, anyway?
 
---
+---
 
 Trump supporters aren’t terrorists. (Though they’d be quick to equate progressives and Black Lives Matter protestors with Al Qaeda, [if given the chance](https://www.theguardian.com/us-news/video/2016/aug/11/donald-trump-president-obama-is-the-founder-of-isis-video).) Yet, **at some point this year, there was a hand-off of fear.**
 
@@ -114,7 +114,7 @@ Not included on the map is the fact that earlier this weekend the President Elec
 <br>
 There’s a way to say what should be said, but I can’t find a way to do it here without sounding shrill, apoplectic, or like another outraged fool.
 
---
+---
 
 **The morning of 9/11**, I was in the wilderness on the border of Nevada and California, surrounded by some of the [oldest-living things on earth](https://en.wikipedia.org/wiki/Bristlecone_pine). The skies were quiet. That night, the stars were so close, I could feel the earth’s rotation — the whole thing slipping slightly, right beneath my feat.
 
@@ -136,7 +136,7 @@ The threat pulsed through all the newly-laid fiber, mixing with the bits that co
 
 The threat now surrounds us, and we’re so used to it, we barely notice. A bunch of it even settled down in the house of the guy at the end of the street, who’s a good neighbor, keeps quiet, and [doesn’t really bother anybody](https://en.wikipedia.org/wiki/Ted_Kaczynski).
 
---
+---
 
 This is where we’re I’m supposed to take a turn.
 
@@ -150,7 +150,7 @@ An editor would tell me to ride back to the top of this section and try again. *
 
 Quit stalling. Make another GIF if you have to.
 
---
+---
 
 <iframe src="https://giphy.com/embed/9lJqbE6ZoXi0M" width="480" height="173" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rocky-dolph-lundgren-9lJqbE6ZoXi0M">via GIPHY</a></p><br>
 
