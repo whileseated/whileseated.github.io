@@ -19,7 +19,7 @@ Revisiting the sequence of events that yielded Steve Helber's “flamethrower”
 ## 2017.01 - Skip This Version / Do Not Install Update
 (On MLK’s birthday, an affectionate exploration of Pete Souza’s photograph of Stevie Wonder in the Oval Office, and more.)
 [[Medium link](https://medium.com/@whileseated/skip-this-version-do-not-install-update-331b9c487fe4)]
-{% include image.html href="https://medium.com/@whileseated/skip-this-version-do-not-install-update-331b9c487fe4" url="https://cdn-images-1.medium.com/max/2560/1*VR78i5r7wrL_REjBBzzucQ.png" description="(Skip This Version / Do Not Install Update [on Medium](https://medium.com/@whileseated/skip-this-version-do-not-install-update-331b9c487fe4))" %}
+{% include image.html href="https://medium.com/@whileseated/skip-this-version-do-not-install-update-331b9c487fe4" url="https://cdn-images-1.medium.com/max/2560/1*VR78i5r7wrL_REjBBzzucQ.png" description="([Skip This Version / Do Not Install Update - on Medium](https://medium.com/@whileseated/skip-this-version-do-not-install-update-331b9c487fe4))" %}
 
 ---
 
@@ -33,7 +33,7 @@ A new look at, through, and beyond Brian Ulrich’s quiet masterpiece of post-9/
 ## 2016.07 - Can I interrogate this photograph? Can I hold it here in front of me, arrested?
 Looking at Jonathan Bachman’s photograph of an arrest in Baton Rouge.  
 [[Medium link](https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb) & [Archive link](2016_Can-I-interrogate-this-photograph-Can-I-hold-it-here-in-front-of-me-arrested.md)]  
-{% include image.html href="https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb" url="https://cdn-images-1.medium.com/max/1600/1*q8BNLf2ykX41fyr5OkL5qQ.png" description="(Can I interrogate this photograph? Can I hold it here in front of me, arrested? - [on Medium](https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb))" %}
+{% include image.html href="https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb" url="https://cdn-images-1.medium.com/max/1600/1*q8BNLf2ykX41fyr5OkL5qQ.png" description="([Can I interrogate this photograph? Can I hold it here in front of me, arrested? - on Medium](https://medium.com/@whileseated/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb))" %}
 
 ---
 
