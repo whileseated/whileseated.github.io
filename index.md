@@ -16,6 +16,13 @@ Revisiting the sequence of events that yielded Steve Helber's “flamethrower”
 
 ---
 
+## 2017.01 - Skip This Version / Do Not Install Update
+(On MLK’s birthday, an affectionate exploration of Pete Souza’s photograph of Stevie Wonder in the Oval Office, and more.)
+[[Medium link](https://medium.com/@whileseated/skip-this-version-do-not-install-update-331b9c487fe4)]
+{% include image.html href="https://medium.com/@whileseated/skip-this-version-do-not-install-update-331b9c487fe4" url="https://cdn-images-1.medium.com/max/2560/1*VR78i5r7wrL_REjBBzzucQ.png" description="(Skip This Version / Do Not Install Update on Medium)" %}
+
+---
+
 ## 2016.12 - Today’s Threat Level: Orange
 A new look at, through, and beyond Brian Ulrich’s quiet masterpiece of post-9/11 American paranoia.
 [[Medium link](https://medium.com/photos-we-love/todays-threat-level-orange-21b9f35b4cc0) & [Archive link](2016_Todays-Threat-Level-Orange.md)]  
