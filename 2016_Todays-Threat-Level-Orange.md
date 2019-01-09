@@ -109,8 +109,8 @@ Not included on the map of hate crimes, violence, harassment, and threats are th
 
 Not included on the map is the fact that earlier this weekend the President Elect went in front of a crowd in Orlando, Florida (a city leveled by the physical and emotional violence of a mass shooting in 2016) to talk approvingly about how his campaign reveled and thrived on its **_vicious, violent, mean, & nasty_** supporters.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">President-elect Donald Trump calls his supporters &quot;vicious and violent&quot; at a rally in Orlando Florida. <a href="https://t.co/3Vbf9wC5UI">pic.twitter.com/3Vbf9wC5UI</a></p>&mdash; Channel 4 News (@Channel4News) <a href="https://twitter.com/Channel4News/status/810164333338619904?ref_src=twsrc%5Etfw">December 17, 2016</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div align="center"><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">President-elect Donald Trump calls his supporters &quot;vicious and violent&quot; at a rally in Orlando Florida. <a href="https://t.co/3Vbf9wC5UI">pic.twitter.com/3Vbf9wC5UI</a></p>&mdash; Channel 4 News (@Channel4News) <a href="https://twitter.com/Channel4News/status/810164333338619904?ref_src=twsrc%5Etfw">December 17, 2016</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 <br>
 There’s a way to say what should be said, but I can’t find a way to do it here without sounding shrill, apoplectic, or like another outraged fool.
 
@@ -152,7 +152,7 @@ Quit stalling. Make another GIF if you have to.
 
 ---
 
-<iframe src="https://giphy.com/embed/9lJqbE6ZoXi0M" width="480" height="173" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rocky-dolph-lundgren-9lJqbE6ZoXi0M">via GIPHY</a></p><br>
+<div align="center"><iframe src="https://giphy.com/embed/9lJqbE6ZoXi0M" width="480" height="173" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rocky-dolph-lundgren-9lJqbE6ZoXi0M">via GIPHY</a></p></div>
 
 Post 9/11, the jingoistic fervor that coupled the word **Homeland** to **Security** looked like a referral link to 80s-era Russia. Growing-up then, governments that called their country “The Homeland” had guys named Ivan Drago who fought Rocky Balboa on Christmas Day.
 

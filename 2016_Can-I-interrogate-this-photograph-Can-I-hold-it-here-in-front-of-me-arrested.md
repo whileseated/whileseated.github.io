@@ -14,7 +14,7 @@ slug: >-
 
 # Can I interrogate this photograph? Can I hold it here in front of me, arrested?
 
-{% include image.html href="" url="https://cdn-images-1.medium.com/max/2000/1*zj2226j4qTF_xRKRVPnRaA.jpeg" description="(Jonathan Bachman / Reuters)" %}
+{% include image.html url="https://cdn-images-1.medium.com/max/2000/1*zj2226j4qTF_xRKRVPnRaA.jpeg" description="(Jonathan Bachman / Reuters)" %}
 
 This photograph by photojournalist [Jonathan Bachman](http://www.jonathanbachmanphotography.com/portfolio) from Baton Rouge is a few days old. It’s a difficult photo of a moment in American history that you won’t soon forget.
 
@@ -30,11 +30,19 @@ This will be as serious as it will be glib, which is never a good idea, but it�
 
 ![](https://cdn-images-1.medium.com/max/800/1*VMbTOp2IZH1wCvYxdE6pfA.png)
 
+---
+
 ![](https://cdn-images-1.medium.com/max/1000/1*q8BNLf2ykX41fyr5OkL5qQ.png)
+
+---
 
 ![](https://cdn-images-1.medium.com/max/800/1*Vyi0CBv51ItYDESqO1kDCQ.png)
 
+---
+
 ![](https://cdn-images-1.medium.com/max/800/1*eQ_t_Rv-o-uDEX1MxEFIZw.png)
+
+---
 
 ![](https://cdn-images-1.medium.com/max/800/1*nkGnvKTg6WyJO3osfymNmw.png)
 
@@ -56,11 +64,19 @@ And off-center, there’s even more reinforcing action and information that keep
 
 ![](https://cdn-images-1.medium.com/max/800/1*oVjgGjST5V_d71b3_xKn_g.png)
 
+---
+
 ![](https://cdn-images-1.medium.com/max/1000/1*sc5hCenr45RrRcT_A2d5Pw.png)
+
+---
 
 ![](https://cdn-images-1.medium.com/max/800/1*nmoriy4Yw4zIglZ0RJae2g.png)
 
+---
+
 **Update:** 20160712–6:12PMEST, included more links up-top to the global discussion about the photograph, and this GIF photographed by [Max Becherer](https://twitter.com/mlbecherer) (which I saw on Twitter — a [GIF that Twitter converted to a video](https://pbs.twimg.com/tweet_video/CnLfK5gXEAA5QAn.mp4), and I converted back to a GIF to post it here without a play button) which shows the arrest sequence.
+
+<div align="center"><iframe src="https://giphy.com/embed/l46Cj6zbqI58pgfuM" width="480" height="319" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/blacklivesmatter-baton-rouge-alton-sterling-l46Cj6zbqI58pgfuM">via GIPHY</a></p></div>
 
 Update #2: 20160720 — [An interview on Vice with Ieshia Evans](https://news.vice.com/article/baton-rouges-iconic-protestor-the-peace-needs-to-be-disturbed).
 
