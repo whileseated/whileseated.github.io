@@ -62,6 +62,12 @@ Curating an exhibiton photographs from Mark Alor Powell and Hannah Pierce-Carlso
 
 ---
 
+## 2009.01 - 'Off the Page: Kannapolis, NC' for 8 Magazine
+[[Archive link](2009_Off-the-Page-Kannapolis-NC.md)]
+[!['Off the Page: Kannapolis, NC' for 8 Magazine](https://cdn-images-1.medium.com/max/800/1*DzqDOD-rlw6E4AIXqxPKVw.gif)](2009_Off-the-Page-Kannapolis-NC.md)
+
+---
+
 ## 2008.07 - American Beauty  
 On the 50th Anniversary Edition of Robert Frank’s “The Americans” — originally published May, 2008, in The National — Abu Dhabi.  
 [[Medium link](https://medium.com/@whileseated/american-beauty-23a49eb042cb) & [Archive link](2008_American-Beauty.md)]  
