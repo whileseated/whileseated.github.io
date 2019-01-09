@@ -9,7 +9,7 @@ keywords: ''
 slug: /@whileseated/text-is-a-slow-lover-e0568e11ab0e
 ---
 
-#Interview with Michael David Murphy about Unphotographable for Dash Magazine, Spring/Summer 2014
+# Interview with Michael David Murphy about Unphotographable for Dash Magazine, Spring/Summer 2014
 
 (Questions in bold, by Brent Randall)
 
@@ -19,7 +19,7 @@ I grew up in a US military family. We were always moving; East Coast, West Coast
 **You abandoned taking photos due to the cost of processing and developing film. Now we have digital, which is practically free. Why do you still choose not to take photographs?**  
 Like most, I shoot digitally as well as film. I gave up on photography during college because it was expensive but fell back into it during graduate school with the advent of digital. Now, if I choose not to photograph something it’s more because I’ve seen enough similar examples — the scene or subject I’m facing — already photographed. My favourite pictures offer new ways of seeing; it’s getting more and more difficult to find those particular views.
 
-{% include image.html href="" url="https://cdn-images-1.medium.com/max/1000/1*MO9fJw_ovO-ylaRaO7CZqw.jpeg" description="(from DASH magazine — Spring/Summer 2014)" %}
+{% include image.html url="https://cdn-images-1.medium.com/max/1000/1*MO9fJw_ovO-ylaRaO7CZqw.jpeg" description="(from DASH magazine — Spring/Summer 2014)" %}
 
 [**Unphotographable**](http://unphotographable.com/) **is focused around moments which could have made a great photo but didn’t. What was the catalyst for this project, and which was your first ‘missed’ opportunity?**  
 I was in Harar, Ethiopia, easily the most photographable place I’d ever seen. There was this thriving street life; the city’s walled with all kinds of passageways, beautiful open corridors and courtyards, but the privacy of the people who live there seemed more important than my need to take pictures. I was there, and then I’d be gone, with a satchel full of photographs that would some way prove I’d been there — something felt fairly twisted about that transaction. As a photographer, I’ve never believed that, whatever the cost, the world owes me a particular picture. On the plane home, while looking at some oilrigs off the Libyan coast, I thought about starting [Unphotographable](http://unphotographable.com/), a place where I could keep track of these missed opportunities. The threshold for what becomes a real picture and what becomes a new piece for [Unphotographable](http://unphotographable.com/) is whether or not I tried. If I tried to capture something and couldn’t, for whatever reason, it’s good enough. Honestly, they’re the hardest pictures I’ve ever tried to (not) take. A great picture might make a horrible [Unphotographable](http://unphotographable.com/) entry. William Eggleston’s tricycle would be dull; Ansel Adams’s Yosemite would be monumentally difficult to describe. Sometimes the best photographs last longer than 1/125th of a second; a seconds-long situation that would yield a blurry photograph might look great in text.
