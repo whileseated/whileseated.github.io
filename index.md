@@ -63,7 +63,7 @@ Curating an exhibiton photographs from Mark Alor Powell and Hannah Pierce-Carlso
 ---
 
 ## 2009.01 - 'Off the Page: Kannapolis, NC' for 8 Magazine
-[[Archive link](2009_Off-the-Page-Kannapolis-NC.md)]  
+[[Medium link](https://medium.com/photos-we-love/off-the-page-kannapolis-nc-f0191b0e92e0) & [Archive link](2009_Off-the-Page-Kannapolis-NC.md)]  
 [!['Off the Page: Kannapolis, NC' for 8 Magazine](https://cdn-images-1.medium.com/max/800/1*DzqDOD-rlw6E4AIXqxPKVw.gif)](2009_Off-the-Page-Kannapolis-NC.md)
 
 ---
