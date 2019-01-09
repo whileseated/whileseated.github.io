@@ -11,10 +11,6 @@ slug: /@whileseated/off-the-page-kannapolis-nc-f0191b0e92e0
 
 **A young girl runs across the screen from right to left. The camera follows her.**
 
-{% include image.html url="https://media.giphy.com/media/11ehA4al50FzBC/giphy.gif" description="From \"Kannapolis, NC\"" %}
-
-{% include image.html href="" url="https://cdn-images-1.medium.com/max/800/1\*DzqDOD-rlw6E4AIXqxPKVw.gif" description="From \"Kannapolis, NC\"" %}
-
 It’s a small, simple moment in a silent 16mm film comprised of small, simple moments shared with ordinary people. An innocuous 16th of a second, there and gone. A girl escapes the camera’s gaze; a man in overalls walks down the street toward a factory; a boy rides his bicycle in a circle.
 
 Photography, be it with the photojournalist’s Leica, or the 16 frames-per-second shot with [H. Lee Waters](http://en.wikipedia.org/wiki/Herbert_Lee_Waters)’ Cine-Kodak Special w/ Two Lens Turret in 1941, is the pursuit of capturing light on film. Of bringing something back that’s worth seeing again. It’s the resurrection of right now, a little later.
