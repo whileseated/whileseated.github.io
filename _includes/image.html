@@ -1,2 +1,6 @@
-{{ page.excerpt | markdownify }}
-<figure class="image"><a href="{{ include.href }}"><img src="{{ include.url }}" alt="{{ include.description }}"></a><figcaption>{{ include.description }}</figcaption></figure>
+<figure class="image">
+<a href="{{ include.href }}">
+  <img src="{{ include.url }}" alt="{{ include.description }}">
+</a>
+<figcaption>{{ include.description | markdownify }}</figcaption>
+</figure>
