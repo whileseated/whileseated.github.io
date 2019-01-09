@@ -11,7 +11,7 @@ slug: /@whileseated/off-the-page-kannapolis-nc-f0191b0e92e0
 
 **A young girl runs across the screen from right to left. The camera follows her.**
 
-{% include image.html href="" url="https://cdn-images-1.medium.com/max/800/1*DzqDOD-rlw6E4AIXqxPKVw.gif" description="(From \"Kannapolis, NC\")" %}
+{% include image.html href="" url="https://cdn-images-1.medium.com/max/800/1*DzqDOD-rlw6E4AIXqxPKVw.gif" description="From \"Kannapolis, NC\"" %}
 
 It’s a small, simple moment in a silent 16mm film comprised of small, simple moments shared with ordinary people. An innocuous 16th of a second, there and gone. A girl escapes the camera’s gaze; a man in overalls walks down the street toward a factory; a boy rides his bicycle in a circle.
 
