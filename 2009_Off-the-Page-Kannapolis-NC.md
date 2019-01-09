@@ -11,6 +11,8 @@ slug: /@whileseated/off-the-page-kannapolis-nc-f0191b0e92e0
 
 **A young girl runs across the screen from right to left. The camera follows her.**
 
+{% include image.html url="/assets/kannapolis.gif" %}
+
 It’s a small, simple moment in a silent 16mm film comprised of small, simple moments shared with ordinary people. An innocuous 16th of a second, there and gone. A girl escapes the camera’s gaze; a man in overalls walks down the street toward a factory; a boy rides his bicycle in a circle.
 
 Photography, be it with the photojournalist’s Leica, or the 16 frames-per-second shot with [H. Lee Waters](http://en.wikipedia.org/wiki/Herbert_Lee_Waters)’ Cine-Kodak Special w/ Two Lens Turret in 1941, is the pursuit of capturing light on film. Of bringing something back that’s worth seeing again. It’s the resurrection of right now, a little later.
@@ -25,9 +27,9 @@ Waters’ “Movies of Local People” weren’t necessarily intended to be hist
 
 Watching “Kannapolis, NC”, Waters’ 16mm, three-reel portrait of a small mill town northeast of Charlotte, you see the South unfiltered, as it was lived, in public, on the street. Women go shopping, holding hands. Salesmen smile in front of their stores. It’s a democratic vision, a one-for-all, all-for-one approach. An attempt at a portrait of a town by filming every single person walking down the street.
 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/2hcoUixfnSI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/2hcoUixfnSI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
-
+  
 In creating this portrait, Waters reveals the South’s most obvious inequity, segregation. Accordingly, Waters’ film is as segregated as its subject. The third reel begins with the white side of town, the smiling school kids and serious factory workers, the formal school portraits and sandlot ball players. And then suddenly, it’s as if you’re watching a different film, from an entirely different place.
 
 When Waters crosses over to the black side of town, the scenes come alive with added resonance. Instead of seeing a shop owner, you see a man washing the shop’s windows. Instead of a parade of shiny cars down Main Street, there’s a man driving a weary-looking carriage horse. You see the car mechanics and clothes washers, cooks and bricklayers, each and all rendered in Waters’ high-silver film stock with a clarity as striking and as memorable as the WPA-era prints of Dorothea Lange, Bernice Abbott, or Walker Evans.
