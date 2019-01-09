@@ -11,7 +11,7 @@ slug: /@whileseated/off-the-page-kannapolis-nc-f0191b0e92e0
 
 **A young girl runs across the screen from right to left. The camera follows her.**
 
-{% include image.html href="" url="https://cdn-images-1.medium.com/max/800/1*DzqDOD-rlw6E4AIXqxPKVw.gif" description="(From Kannapolis, NC)" %}
+{% include image.html href="" url="https://cdn-images-1.medium.com/max/800/1*DzqDOD-rlw6E4AIXqxPKVw.gif" description="(From \"Kannapolis, NC\")" %}
 
 It’s a small, simple moment in a silent 16mm film comprised of small, simple moments shared with ordinary people. An innocuous 16th of a second, there and gone. A girl escapes the camera’s gaze; a man in overalls walks down the street toward a factory; a boy rides his bicycle in a circle.
 
@@ -27,7 +27,8 @@ Waters’ “Movies of Local People” weren’t necessarily intended to be hist
 
 Watching “Kannapolis, NC”, Waters’ 16mm, three-reel portrait of a small mill town northeast of Charlotte, you see the South unfiltered, as it was lived, in public, on the street. Women go shopping, holding hands. Salesmen smile in front of their stores. It’s a democratic vision, a one-for-all, all-for-one approach. An attempt at a portrait of a town by filming every single person walking down the street.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2hcoUixfnSI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/2hcoUixfnSI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 In creating this portrait, Waters reveals the South’s most obvious inequity, segregation. Accordingly, Waters’ film is as segregated as its subject. The third reel begins with the white side of town, the smiling school kids and serious factory workers, the formal school portraits and sandlot ball players. And then suddenly, it’s as if you’re watching a different film, from an entirely different place.
 
@@ -47,6 +48,9 @@ Which is what makes this still image so potent. Here’s a single frame of film,
 
 It’s fascinating to watch, in quick take after quick take. The recognition in the eyes of those on the street that theyʼre being seen, and in that recognition, a resolution, for both cameraman and subject. In the late 30s and early 40s, hand-held movie cameras were hardly ubiquitous, and there was less awareness about the hazards of staring into them. Still, some hide their faces while others stare straight back. It’s proof positive that the minute you take out a camera, you change the world; the room without the camera is never the same as the room once the camera comes out of its bag.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lhhuLCcBh8k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/lhhuLCcBh8k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 Waters’ comfortability with both the camera and the reactions of those he films, creates a truly open, agenda-less record of Southern life. Interspersed with commercials from local business (he filmed, edited, and sold the airtime for those, too) Waters’ films say more about a photographer who, when facing a harsh economic climate, acquired a new skill and set to work, turning it into a profitable business. While his wife ran the studio in Lexington, Waters filmed the straight facts of the changing world around him, and in doing so, created something that’s nearly impossible to perfect; an artful rendering of banality — people as they are, plain as day.
+
+— [Michael David Murphy](http://michaeldavidmurphy.com), 2008

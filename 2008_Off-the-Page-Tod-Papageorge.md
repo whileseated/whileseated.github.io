@@ -11,7 +11,7 @@ slug: /@whileseated/off-the-page-todd-papageorge-8d36c976c33f
 
 \[tearsheet\]
 
-{% include image.html href="http://www.pacemacgill.com/selected_works/detailspage.php?artist=Tod%20Papageorge&img_num=23" url="https://cdn-images-1.medium.com/max/800/1*tkUOIc2tT-lk-z7k0EDCMA.jpeg" description="(Tod Papageorge, from _American Sports via Pace Macgill — Race Day, Indianapolis 500, Speedway, Indiana, May 30, 1970)" %}
+{% include image.html href="http://www.pacemacgill.com/selected_works/detailspage.php?artist=Tod%20Papageorge&img_num=23" url="https://cdn-images-1.medium.com/max/800/1*tkUOIc2tT-lk-z7k0EDCMA.jpeg" description="(Tod Papageorge, from _American Sports via Pace Macgill — \"Race Day, Indianapolis 500, Speedway, Indiana, May 30, 1970\")" %}
 
 # Off the Page: Todd Papageorge
 
