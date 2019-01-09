@@ -13,9 +13,7 @@ slug: /@whileseated/todays-threat-level-orange-21b9f35b4cc0
 
 (A new look at, through, and beyond Brian Ulrich’s quiet masterpiece of post-9/11 American paranoia)
 
-{% include image.html href="" url="https://cdn-images-1.medium.com/max/2000/1*_s3iKvPRucnwQidh0EX4dQ.jpeg" description="(© Brian Ulrich)" %}
-
-(A new look at, through, and beyond Brian Ulrich’s quiet masterpiece of post-9/11 American paranoia, for [**Photos We Love**](https://medium.com/photos-we-love).)
+{% include image.html url="https://cdn-images-1.medium.com/max/2000/1*_s3iKvPRucnwQidh0EX4dQ.jpeg" description="(© Brian Ulrich)" %}
 
 In March of this year, while Trump was touching all bases en-route to his electoral four-bagger, I found myself thinking back to this photograph of [Brian Ulrich](http://notifbutwhen.com/)’s. It’s _a quiet little picture._ A gas station window. A sign. A scene, essentialized.
 
@@ -41,11 +39,15 @@ Signs as markers, as warnings, as advertisements, yells, hollers and cat-calls a
 
 I can’t think of a contemporary photograph of a sign that’s stuck with me more than Brian’s, but what’s lingered is how much the photo’s message has changed with the times (and the medium?)
 
+--
+
 In the early aughts, we looked to the skies and worried about attacks from above. Fear wasn’t abstract. The approaching whine of a low-flying jet made people duck their heads and wince.
 
 The fear then was external. On the morning of 9/11, my mother-in-law was delayed getting to an appointment at the World Trade Center. The sky was was “severe clear”. Our response to that day’s carnage was understandably forceful. We were so scared we went halfway around the world to kill some people in caves, and in doing so, some of our own were killed, and when we weren’t scaring our enemies and ourselves on the battlefield, we scared ourselves back here with Homeland Security Threat Levels, and tried to calm down by handing over our shoes and belts to TSA.
 
 For most, the American sky has proverbially been as wide as the land and open for anything, but after 9/11 (and for the first time for many) the wide-open American sky felt suffocating, it represented a kind of known unknown, a trigger that just might blow. What was unimaginable had struck New York, DC, and Shanksville — unlike lightning, it might strike again.
+
+--
 
 **Flash forward to 2016, this unending year of awful**, and specifically March 1st, when Trump stole away to Louisville, Kentucky, to rouse his rabblers into a froth no one had let them feel in public for years. Trump rallies were a safe space that embraced their hate. Airing it out felt good to them. Airing it out felt good to men.
 
@@ -71,6 +73,8 @@ When a child-sized American flag in a girl’s hand is a threat, we’re pretty 
 
 And now, we’re so far away, it’s hard to tell how we’ve arrived here, exactly, and where the hell are we, anyway?
 
+--
+
 Trump supporters aren’t terrorists. (Though they’d be quick to equate progressives and Black Lives Matter protestors with Al Qaeda, [if given the chance](https://www.theguardian.com/us-news/video/2016/aug/11/donald-trump-president-obama-is-the-founder-of-isis-video).) Yet, **at some point this year, there was a hand-off of fear.**
 
 Some Americans began fearing that our worst, most bigoted impulses might be as damaging as a bomb blast. That the wounds (both emotional and physical) might last longer, that their scars could not be easily rubbed away. That each tweet and boast propelled the rise of a culture of white triumphalism, as pernicious as the lasting kind from The Old South.
@@ -79,9 +83,7 @@ It called itself “the alt-right” and strutted around. It hitched-up its big 
 
 Here’s Chelsea Handler, doing a sit-down with Heimbach for the 3rd episode of her Netflix show, [Chelsea Does](https://en.wikipedia.org/wiki/Chelsea_Does#Episodes), which aired three months before Heimbach shoved Nwanguma in Louisville.
 
-{% include image.html url="https://cdn-images-1.medium.com/max/800/1*NagDXyXJ8G8h7QF4hripyA.png" %}
-
-“It’s not wrong that I want my grandchildren to look like me.”
+{% include image.html url="https://cdn-images-1.medium.com/max/800/1*NagDXyXJ8G8h7QF4hripyA.png" description="\“It’s not wrong that I want my grandchildren to look like me.\”"%}
 
 And here’s the New York Times’ front-page story from November about an “[alt-right makeover](http://www.nytimes.com/2016/12/10/us/alt-right-national-socialist-movement-white-supremacy.html)” with Heimbach as their family-friendly cover-boy, as photographed by [Ty Wright](http://tywrightphotography.com/):
 
@@ -97,7 +99,7 @@ It’s stressful to stay plugged-in, to keep-up with the day-to-day efforts of t
 
 When you say, “oh, we’ll just see what happens,” [here’s what happened](https://usaelectionmonitor.ushahidi.io/views/map), starting November 9th:
 
-{% include image.html href="https://usaelectionmonitor.ushahidi.io/views/map" url="https://cdn-images-1.medium.com/max/1000/1*DsVt0MYZQ10TZB4GRVL3rg.png" description="()" %}
+{% include image.html href="https://usaelectionmonitor.ushahidi.io/views/map" url="https://cdn-images-1.medium.com/max/1000/1*DsVt0MYZQ10TZB4GRVL3rg.png" %}
 
 Here’s what happened at my daughter’s school, where she’s a pre-K student, less than 10 days after the election: a man approached the school, waving a large American flag, yelling “I HATE NIGGERS! I HATE NIGGERS!” Cops were called and the school went on lock-down.
 
@@ -107,7 +109,12 @@ Not included on the map of hate crimes, violence, harassment, and threats are th
 
 Not included on the map is the fact that earlier this weekend the President Elect went in front of a crowd in Orlando, Florida (a city leveled by the physical and emotional violence of a mass shooting in 2016) to talk approvingly about how his campaign reveled and thrived on its **_vicious, violent, mean, & nasty_** supporters.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">President-elect Donald Trump calls his supporters &quot;vicious and violent&quot; at a rally in Orlando Florida. <a href="https://t.co/3Vbf9wC5UI">pic.twitter.com/3Vbf9wC5UI</a></p>&mdash; Channel 4 News (@Channel4News) <a href="https://twitter.com/Channel4News/status/810164333338619904?ref_src=twsrc%5Etfw">December 17, 2016</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
 There’s a way to say what should be said, but I can’t find a way to do it here without sounding shrill, apoplectic, or like another outraged fool.
+
+--
 
 **The morning of 9/11**, I was in the wilderness on the border of Nevada and California, surrounded by some of the [oldest-living things on earth](https://en.wikipedia.org/wiki/Bristlecone_pine). The skies were quiet. That night, the stars were so close, I could feel the earth’s rotation — the whole thing slipping slightly, right beneath my feat.
 
@@ -129,6 +136,8 @@ The threat pulsed through all the newly-laid fiber, mixing with the bits that co
 
 The threat now surrounds us, and we’re so used to it, we barely notice. A bunch of it even settled down in the house of the guy at the end of the street, who’s a good neighbor, keeps quiet, and [doesn’t really bother anybody](https://en.wikipedia.org/wiki/Ted_Kaczynski).
 
+--
+
 This is where we’re I’m supposed to take a turn.
 
 To encapsulate and somehow call-back how we started — with that photograph, get back to the photograph — but like a great picture, sometimes you can only ask questions. [The emotionally satisfying call-to-arms](https://storify.com/jbordeaux/a-patriot-game-theory) is a predictable dessert. You already know it ends with a patriotic [_hoo-rah_](https://en.wikipedia.org/wiki/Oorah_%28Marines%29).
@@ -140,6 +149,10 @@ You’d lean into the apex and feather-off the brakes and let your speed blast y
 An editor would tell me to ride back to the top of this section and try again. **What is it about this year that’s made you think the threat from an emboldened and Trumpified right is as big or larger than the threat from global terrorism in the early aughts?** How _exactly_ did you recall Ulrich’s photograph when you saw the violence at Trump rallies in the spring of 2016?
 
 Quit stalling. Make another GIF if you have to.
+
+--
+
+<iframe src="https://giphy.com/embed/9lJqbE6ZoXi0M" width="480" height="173" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rocky-dolph-lundgren-9lJqbE6ZoXi0M">via GIPHY</a></p><br>
 
 Post 9/11, the jingoistic fervor that coupled the word **Homeland** to **Security** looked like a referral link to 80s-era Russia. Growing-up then, governments that called their country “The Homeland” had guys named Ivan Drago who fought Rocky Balboa on Christmas Day.
 
