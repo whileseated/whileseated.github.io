@@ -87,7 +87,7 @@ Here’s Chelsea Handler, doing a sit-down with Heimbach for the 3rd episode of 
 
 And here’s the New York Times’ front-page story from November about an “[alt-right makeover](http://www.nytimes.com/2016/12/10/us/alt-right-national-socialist-movement-white-supremacy.html)” with Heimbach as their family-friendly cover-boy, as photographed by [Ty Wright](http://tywrightphotography.com/):
 
-{% include image.html href="http://www.nytimes.com/2016/12/10/us/alt-right-national-socialist-movement-white-supremacy.html" url="https://cdn-images-1.medium.com/max/800/1*rCCw063FGQZLy-LNPbKjkw.png" description="()" %}
+{% include image.html href="http://www.nytimes.com/2016/12/10/us/alt-right-national-socialist-movement-white-supremacy.html" url="https://cdn-images-1.medium.com/max/800/1*rCCw063FGQZLy-LNPbKjkw.png" %}
 
 As outlined on any site you care to search, Heimbach’s goal is to geographically divide-up America into zones that separate us by race and religion. Full stop. No link necessary.
 
