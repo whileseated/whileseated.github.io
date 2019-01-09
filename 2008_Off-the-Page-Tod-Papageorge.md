@@ -9,9 +9,9 @@ slug: /@whileseated/off-the-page-todd-papageorge-8d36c976c33f
 
 # Off the Page: Todd Papageorge
 
-![](https://cdn-images-1.medium.com/max/800/1*7q7adUBxxs9qDTAmYTi0wA.jpeg)
+![](/assets/off_the_page_papageorge.jpeg)
 
-{% include image.html href="http://www.pacemacgill.com/selected_works/detailspage.php?artist=Tod%20Papageorge&img_num=23" url="https://cdn-images-1.medium.com/max/800/1*tkUOIc2tT-lk-z7k0EDCMA.jpeg" description="(Tod Papageorge, from _American Sports via Pace Macgill — \"Race Day, Indianapolis 500, Speedway, Indiana, May 30, 1970\")" %}
+{% include image.html href="http://www.pacemacgill.com/selected_works/detailspage.php?artist=Tod%20Papageorge&img_num=23" url="/assets/papageorge_small.jpeg" description="(Tod Papageorge, from _American Sports via Pace Macgill — \"Race Day, Indianapolis 500, Speedway, Indiana, May 30, 1970\")" %}
 
 Tod Papageorge, literate dean of American photography who directs the graduate program in photography at Yale University, has published two of the most dramatic photobooks in the past two years, _America Sports, 1970, or, How We Spent the War in Vietnam_ and _Passing Through Eden, Photographs of Central Park_. **The books are dramatic in a theatrical sense; themes are introduced, curtains are raised, tensions build and subside.** In each, you feel a final act rising as the pages in your right thumb thin to meet the book’s end-flap.
 
