@@ -72,6 +72,8 @@ And off-center, there’s even more reinforcing action and information that keep
 
 ![](https://cdn-images-1.medium.com/max/800/1*nmoriy4Yw4zIglZ0RJae2g.png)
 
+— [MDM](http://michaeldavidmurphy.com) 20160712
+
 ---
 
 **Update:** 20160712–6:12PMEST, included more links up-top to the global discussion about the photograph, and this GIF photographed by [Max Becherer](https://twitter.com/mlbecherer) (which I saw on Twitter — a [GIF that Twitter converted to a video](https://pbs.twimg.com/tweet_video/CnLfK5gXEAA5QAn.mp4), and I converted back to a GIF to post it here without a play button) which shows the arrest sequence.
