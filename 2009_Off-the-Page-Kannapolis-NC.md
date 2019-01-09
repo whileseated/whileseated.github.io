@@ -11,7 +11,7 @@ slug: /@whileseated/off-the-page-kannapolis-nc-f0191b0e92e0
 
 **A young girl runs across the screen from right to left. The camera follows her.**
 
-{% include image.html url="https://cdn-images-1.medium.com/max/800/1\*DzqDOD-rlw6E4AIXqxPKVw.gif" description="From \"Kannapolis, NC\"" %}
+{% include image.html url="https://media.giphy.com/media/11ehA4al50FzBC/giphy.gif" description="From \"Kannapolis, NC\"" %}
 
 {% include image.html href="" url="https://cdn-images-1.medium.com/max/800/1\*DzqDOD-rlw6E4AIXqxPKVw.gif" description="From \"Kannapolis, NC\"" %}
 
