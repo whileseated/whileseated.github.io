@@ -14,7 +14,7 @@ slug: >-
 
 (An exhibition at Columbus State University, March 12th-April 19th, 2014)
 
-{% include image.html url="/assets/powell_1.jpeg" description="(Mark Alor Powell — \"Iztapalapa, Mexico City, 2012\")" %}
+<-- {% include image.html url="/assets/powell_1.jpeg" description="(Mark Alor Powell — \"Iztapalapa, Mexico City, 2012\")" %} --> -->
 
 **Depending on whom you ask, 2014 marks the 10th anniversary of photography’s “new ubiquity.”** In 2004, three years before the iPhone, [Flickr](http://web.archive.org/web/20040429160555/http://flickr.com/) was launched, empowering digital-savvy photographers to develop, grow, and share their work with the world, while reaching entirely new audiences.
 
@@ -22,7 +22,7 @@ Feared at first by a photographic world that held tightly to decades worth of da
 
 Uncle Bob was a straw man with a digital SLR around his neck, but hardly a scarecrow. While the industry couldn’t predict how digital photography would disrupt their bottom line, people who never had the means (or spark) to buy film, shoot film, scan film, and print in the darkroom suddenly had a voice. In fact, there were so many new voices, there was far more noise than signal, but gradually, committed photographers with new, unique ways of seeing became visible.
 
-{% include image.html url="/assets/hpc_1.jpeg" description="(Hannah Pierce-Carlson — \"Huwei, Taiwan\")" %}
+<-- {% include image.html url="/assets/hpc_1.jpeg" description="(Hannah Pierce-Carlson — \"Huwei, Taiwan\")" %} -->
 
 These photographers were in-the-traditional-sense, unschooled, but the rise of digital afforded them an education based on the experience of failure. Photography’s learning curve suddenly flattened; you could fail and fail and fail (for free!) until you became better. And it was in those failures that they forged the medium’s future.
 
@@ -32,7 +32,7 @@ It’s in this first decade of the new century that [Mark Alor Powell](http://ma
 
 **The photography game, as it were, had changed.**
 
-{% include image.html url="powell_2.jpeg" description="(Mark Alor Powell — \"La Juarez, Mexico City, 2013\")" %}
+<-- {% include image.html url="powell_2.jpeg" description="(Mark Alor Powell — \"La Juarez, Mexico City, 2013\")" %} -->
 
 “**Foreign & Domestic**,” an exhibition at Columbus State University, opening March 12th, 2014, is a natural extension of photography’s new ubiquity. Both Pierce-Carlson and Powell were born in the United States, and currently live abroad; Powell with his family in Mexico City; Carlson with her husband in Vietnam. Beyond the similarities in their approach, they’re hyperlinked, in that both eagerly embraced photography’s digital tools to publish, popularize, and refine their own artistic ambitions.
 
@@ -40,7 +40,7 @@ At its heart, photography is an unsympathetic, acquisitional medium. You point t
 
 Pierce-Carlson and Powell take a noticeably different approach. The day-to-dayness of their imagery (a man delivering Wonder bread, a cow getting fed outside a grocery store) accentuates the difference between what they’re seeing, and what the rest of us see, in the increasingly homogenized visual landscape of the States. **As photographers, they move through their worlds and make pictures from the inside-out, creating photographs as domestic and familiar as they are foreign.** Their pictures have a preternatural 1st-world visual sensibility, but are grounded by the framework of another culture’s community. Their photographs could never be confused with those taken by a photographer who’s jetted-in and out for a picture thrill.
 
-{% include image.html url="/assets/powell_3.jpg" description="(Mark Alor Powell — \"Chautemoc, 2012\")" %}
+<-- {% include image.html url="/assets/powell_3.jpg" description="(Mark Alor Powell — \"Chautemoc, 2012\")" %} -->
 
 American outsiders (literally, if not figuratively) Pierce-Carlson and Powell have gone far beyond ingratiating themselves into their adopted countries. In addition to teaching photography to teens in a notorious suburb of Mexico City, Powell has hosted his own television show (in his second language, Spanish) on History Channel Latin America, where he enthusiastically revealed the ins-and-outs of photographing Latin & South America. Pierce-Carlson has gone from teaching English in Taiwain to being the Managing Director of a school in Ho Chi Minh City.
 
@@ -48,19 +48,19 @@ This “inside-out” style affords Powell the language skills, time, and extra 
 
 In the visual cacophony of a true megalopolis, Powell uses chaos to his advantage, drawing attention (compositionally & emotionally) to human authenticity; the little touches that make his subjects who they are. His is an exacting eye, carefully tuned to the weakness of power, and the strength of what’s hidden or unseen. While his work mines the rich visual terrain of two incredibly disparate Americas (Detroit & Mexico City, with all of the photos in this exhibition from the latter, all made in the last two years) he treats them as they are; not as they should be, or as they were.
 
-{% include image.html url="/assets/powell_4.jpg" description="(Mark Alor Powell — \"El Chopo, 2012\")" %}
+<-- {% include image.html url="/assets/powell_4.jpg" description="(Mark Alor Powell — \"El Chopo, 2012\")" %} -->
 
 If, like me, you blink in wonder at the sure-handedness of Powell’s work, it might be because he so effortlessly shows the unimaginable, a city as much in the past as the future, stretched-out around its elastic waist, bursting at the seam. It’s a vision that’s Powell’s and his only; like a discarded sci-fi novel with the last fifty pages ripped-out, his photographs fill-in-the-blanks of a city you’ve never known (and may never know) a kind of contemporary Interzone, where someone sells miniature trucks from their life-size truck, where a Cottonelle Jumbo 12-pack is the new handbag.
 
 While Powell’s work has been exhibited around the world, “**Foreign & Domestic” marks Pierce-Carlson’s debut exhibition**. Like Powell’s, her pieces feel more transactional than acquisitional — born from her natural curiosity and cross-cultural adeptness. You get the sense that Pierce-Carlson’s photographs are bookmarks in a never-ending story of discovery. _Here’s that perfectly-paused foot in a doorway in Jakarta; here’s how owls run the Taiwanese muffler shop._ The story keeps going; no one knows where she might land next.
 
-{% include image.html url="/assets/hpc_2.jpeg" description="(Hannah Pierce-Carlson — \"Bangkok, Thailand\")" %}
+<-- {% include image.html url="/assets/hpc_2.jpeg" description="(Hannah Pierce-Carlson — \"Bangkok, Thailand\")" %} -->
 
 To wit, where might this woman in Bangkok be heading? Why is Asia in a headlong rush to the 22nd century? Should we all own a pair of shoes that are a little bit metal, a little bit leather? What kind of footwear helps one navigate a steely world? What’s natural anymore? What’s urban? What’s feminine? What’s flesh?
 
 These aren’t Pierce-Carlson’s questions, but they might be. Something tells me she’s less interested in easy answers. **Each of her pictures reflect a photographer with a magnetic draw to the unsolveable equation, to the sly, uneasy beauty of a conundrum.** While her pictures are easy to describe; “a woman reclining on a tire,” “a boy who’s just exploded firecrackers,” nothing could prepare you for how crackling her pictures are with mystery, with that rare, unresolvable energy that radiates, the longer you look.
 
-{% include image.html url="/assets/hpc_3.jpeg" description="(Hannah Pierce-Carlson — \"Huwei, Taiwan\")" %}
+<-- {% include image.html url="/assets/hpc_3.jpeg" description="(Hannah Pierce-Carlson — \"Huwei, Taiwan\")" %} -->
 
 The longer I look, the more I want to see. It’s the sole thing I want from photographs—both low threshold and high bar. Make me care. Make me want to keep looking. Pierce-Carlson and Powell are two of the most reliable (and prolific) photographers I know. Their successes aren’t reliant on who’s waiting to buy their latest “body of work”, or in creating an artificially scarce series of prints; they’re decidedly _new-school_ photographers who are grounded in the old-school, historic sense. **They photograph because _they have to_**, not because there’s a market to satisfy or reputations to protect.
 
@@ -72,4 +72,4 @@ My wish in bringing them together for “**Foreign & Domestic**” is that the c
 
 — [Michael David Murphy](http://michaeldavidmurphy.com), 2014
 
-{% include image.html url="/assets/powell_5.jpeg" description="(Mark Alor Powell — \"Escalade, 2012\")" %}
+<-- {% include image.html url="/assets/powell_5.jpeg" description="(Mark Alor Powell — \"Escalade, 2012\")" %} -->
