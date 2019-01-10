@@ -40,7 +40,7 @@ At its heart, photography is an unsympathetic, acquisitional medium. You point t
 
 Pierce-Carlson and Powell take a noticeably different approach. The day-to-dayness of their imagery (a man delivering Wonder bread, a cow getting fed outside a grocery store) accentuates the difference between what they’re seeing, and what the rest of us see, in the increasingly homogenized visual landscape of the States. **As photographers, they move through their worlds and make pictures from the inside-out, creating photographs as domestic and familiar as they are foreign.** Their pictures have a preternatural 1st-world visual sensibility, but are grounded by the framework of another culture’s community. Their photographs could never be confused with those taken by a photographer who’s jetted-in and out for a picture thrill.
 
-{% include image.html url="/assets/powell_3.jpg" description="(Mark Alor Powell — \'Chautemoc, 2012\')" %}
+{% include image.html url="/assets/powell_3.jpeg" description="(Mark Alor Powell — \'Chautemoc, 2012\')" %}
 
 American outsiders (literally, if not figuratively) Pierce-Carlson and Powell have gone far beyond ingratiating themselves into their adopted countries. In addition to teaching photography to teens in a notorious suburb of Mexico City, Powell has hosted his own television show (in his second language, Spanish) on History Channel Latin America, where he enthusiastically revealed the ins-and-outs of photographing Latin & South America. Pierce-Carlson has gone from teaching English in Taiwain to being the Managing Director of a school in Ho Chi Minh City.
 
@@ -48,7 +48,7 @@ This “inside-out” style affords Powell the language skills, time, and extra 
 
 In the visual cacophony of a true megalopolis, Powell uses chaos to his advantage, drawing attention (compositionally & emotionally) to human authenticity; the little touches that make his subjects who they are. His is an exacting eye, carefully tuned to the weakness of power, and the strength of what’s hidden or unseen. While his work mines the rich visual terrain of two incredibly disparate Americas (Detroit & Mexico City, with all of the photos in this exhibition from the latter, all made in the last two years) he treats them as they are; not as they should be, or as they were.
 
-{% include image.html url="/assets/powell_4.jpg" description="(Mark Alor Powell — \'El Chopo, 2012\')" %}
+{% include image.html url="/assets/powell_4.jpeg" description="(Mark Alor Powell — \'El Chopo, 2012\')" %}
 
 If, like me, you blink in wonder at the sure-handedness of Powell’s work, it might be because he so effortlessly shows the unimaginable, a city as much in the past as the future, stretched-out around its elastic waist, bursting at the seam. It’s a vision that’s Powell’s and his only; like a discarded sci-fi novel with the last fifty pages ripped-out, his photographs fill-in-the-blanks of a city you’ve never known (and may never know) a kind of contemporary Interzone, where someone sells miniature trucks from their life-size truck, where a Cottonelle Jumbo 12-pack is the new handbag.
 
