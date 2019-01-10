@@ -71,7 +71,7 @@ It’s simple, really. Reading Steidl’s reprinting of _The Americans_, where t
 
 Much can be made of what Frank chooses to see, and what he puts into his frames. The overriding arc in _The Americans_ is that the pictures feel as if they were made by a feeling, thinking human, rather than someone trying to make photographs that look like art for the Christie’s auction. There’s a quick mind behind the book’s main equation, which is this: how we see is less important than what is seen. The former are questions for a machine: which lens? Which film? Which speed? The latter includes the most severe and gut-wrenching choices for a dedicated, free-thinking artist.
 
-{% include image.html url="https://cdn-images-1.medium.com/max/800/1*DG4161CN_RxhPFUVinuh2A.jpeg" description="(Robert Frank - \"Trolley — New Orleans, 1955\" — Steidl)" %}
+{% include image.html url="/assets/robert_frank_trolley.jpg" description="(Robert Frank - \"Trolley — New Orleans, 1955\" — Steidl)" %}
 
 For a Swiss on an American odyssey, Frank’s imperfectly odd way of seeing is the book’s best asset. It’s both Frank’s way and the highway, with the roads of America yielding an infinite riff of possibilities, regardless of where the end is, and what the air sounds like there. Though the Great American Road Trip is quickly becoming a petroleum-based impossibility, when you look at _The Americans_ you get the sense that there’s a wealth of pictures still out there.
 

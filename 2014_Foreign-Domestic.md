@@ -10,7 +10,7 @@ slug: >-
   /@whileseated/foreign-domestic-photographs-from-mark-alor-powell-and-hannah-pierce-carlson-76bf28cb2f8f
 ---
 
-# “Foreign & Domestic” — photographs from Mark Alor Powell and Hannah Pierce-Carlson
+# "Foreign & Domestic" — photographs from Mark Alor Powell and Hannah Pierce-Carlson
 
 (An exhibition at Columbus State University, March 12th-April 19th, 2014)
 
