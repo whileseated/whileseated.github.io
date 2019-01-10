@@ -22,7 +22,7 @@ Feared at first by a photographic world that held tightly to decades worth of da
 
 Uncle Bob was a straw man with a digital SLR around his neck, but hardly a scarecrow. While the industry couldn’t predict how digital photography would disrupt their bottom line, people who never had the means (or spark) to buy film, shoot film, scan film, and print in the darkroom suddenly had a voice. In fact, there were so many new voices, there was far more noise than signal, but gradually, committed photographers with new, unique ways of seeing became visible.
 
----
+{% include image.html url="/assets/powell_1.jpeg" description="(Mark Alor Powell — Iztapalapa, Mexico City, 2012)" %} 
 
 These photographers were in-the-traditional-sense, unschooled, but the rise of digital afforded them an education based on the experience of failure. Photography’s learning curve suddenly flattened; you could fail and fail and fail (for free!) until you became better. And it was in those failures that they forged the medium’s future.
 
