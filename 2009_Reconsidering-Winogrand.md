@@ -33,7 +33,7 @@ Winogrand’s alertness, easily misread as impatience or distraction, was most l
 
 Yet it’s this quotidian attraction to the unspooling of time that creates the through-line of Winogrand’s effort. That there are precise moments and places on the planet where the truly extraordinary occurs, without actors, curtains, or fancy equipment, and that these places are often narrow and vanishing; perfect for a photographer with his finger on the shutter. The spoiled analogy of photography as big game hunting backfires; Winogrand’s targets were no one else’s; at their best they were his only. A couple with two chimpanzees, two lovers with a fox approaching. Neither from the pages of a Field Guide.
 
-{% include image.html href="/assets/winogrand_1.jpeg" url="" description="(© Estate of Garry Winogrand)" %}
+{% include image.html url="/assets/winogrand_1.jpeg" description="(/© Estate of Garry Winogrand)" %}
 
 Too often summed-up as a visual trickster, Winogrand’s work may well have been one thing to him and something entirely different to the rest of us. And you can’t help but wonder if there was genius in the aggregate. Like Gerhard Richter’s “Atlas”, perhaps Winogrand’s greatest work wasn’t in the brilliant moments or creative editing, but in **The Complete Everything**, in the performative act of making hundreds of thousands of images, of the people, with the people?
 
