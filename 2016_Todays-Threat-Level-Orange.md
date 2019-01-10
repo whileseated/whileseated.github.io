@@ -189,3 +189,5 @@ Threat you might get exactly what you wished threat. Compassion threat. Loving k
 — [MDM](http://michaeldavidmurphy.com/), 20161218
 
 Update: 20161229 — In the days since this was published, [Google has apparently altered its algorithm](http://www.nbcnews.com/tech/internet/google-changes-algorithm-scrubs-neo-nazi-site-disputing-holocaust-top-n700506) to change the results that are presented when you search for “did the holocaust happen?”. Your results may vary.
+
+---

@@ -86,3 +86,5 @@ There’s always a place between where you started and where you’ll finish. Th
 If I glean one thing from the pages of _The Americans_, it’s the suggestion that the road is still there, and it doesn’t belong to Robert Frank. The road’s mine and it’s yours, and we’re the only ones who’ll know what’s on it, so let’s go quickly, and soon, before our thoughts slow and stop wondering what the light looks like on an evening when anything seems possible, before the movie’s last reel and the credits unspool, before all the ideas are the same ideas, and especially before we start asking ourselves, “What if…?”
 
 — [Michael David Murphy](http://michaeldavidmurphy.com), 2008
+
+---

@@ -85,3 +85,5 @@ Update #2: 20160720 — [An interview on Vice with Ieshia Evans](https://new
 Update #3: 20170213 — [Bachman’s photo wins a World Press Photo Award](https://www.worldpressphoto.org/collection/photo/2017/contemporary-issues/jonathan-bachman).
 
 #### (This piece was written by [Michael David Murphy](http://michaeldavidmurphy.com) for [Photos We Love](https://medium.com/photos-we-love), a new publication from [Atlanta Celebrates Photography](http://acpinfo.org), which welcomes and encourages you to explore how, why, and what we love about photographs, one picture at a time.)
+
+---

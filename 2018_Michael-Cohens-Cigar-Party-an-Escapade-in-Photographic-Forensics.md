@@ -172,3 +172,5 @@ What a world.
 [curl](https://curl.haxx.se/docs/manpage.html), [cat](https://en.wikipedia.org/wiki/Cat_%28Unix%29), [ffmpeg](https://www.ffmpeg.org/), [screenshot-tweet](https://github.com/lukehorvat/screenshot-tweet), [youtube-dl](https://rg3.github.io/youtube-dl/), [skitch](https://evernote.com/products/skitch), [pathfinder](https://cocoatech.com/#/), [apple keynote](https://www.apple.com/keynote/), [nvalt](http://brettterpstra.com/projects/nvalt/), [adobe lightroom](https://www.adobe.com/products/photoshop-lightroom.html), [gif brewery 3](http://gifbrewery.com/), [chrome inspector](https://developer.chrome.com/devtools), google maps and [image search](http://images.google.com/), this “[view image](https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk?hl=en)” extension, “[send to exif viewer](https://chrome.google.com/webstore/detail/send-to-exif-viewer/gogiienhpamfmodmlnhdljokkjiapfck?hl=en-US)” extension…
 
 (If you’ve made it this far, thank you, and [**I’d love you along for the ride on Telegram**](https://t.co/myeyOyrfuu), an _algorithm-free_ broadcast channel I prefer to the InstaFace Zuckerverse. Cheers.)
+
+---

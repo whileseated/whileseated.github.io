@@ -52,3 +52,5 @@ It’s fascinating to watch, in quick take after quick take. The recognition in 
 Waters’ comfortability with both the camera and the reactions of those he films, creates a truly open, agenda-less record of Southern life. Interspersed with commercials from local business (he filmed, edited, and sold the airtime for those, too) Waters’ films say more about a photographer who, when facing a harsh economic climate, acquired a new skill and set to work, turning it into a profitable business. While his wife ran the studio in Lexington, Waters filmed the straight facts of the changing world around him, and in doing so, created something that’s nearly impossible to perfect; an artful rendering of banality — people as they are, plain as day.
 
 — [Michael David Murphy](http://michaeldavidmurphy.com), 2008
+
+---

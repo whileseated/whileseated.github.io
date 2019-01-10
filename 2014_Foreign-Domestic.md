@@ -73,3 +73,5 @@ My wish in bringing them together for “**Foreign & Domestic**” is that the c
 — [Michael David Murphy](http://michaeldavidmurphy.com), 2014
 
 {% include image.html url="/assets/powell_5.jpeg" description="(Mark Alor Powell — \'Escalade, 2012\')" %}
+
+---

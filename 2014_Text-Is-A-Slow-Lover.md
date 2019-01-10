@@ -43,3 +43,5 @@ It would have to be a screenplay that could absolutely never be made or advance 
 
 **What’s the world’s greatest image?**  
 It hasn’t been taken yet. We’re just about reaching the connected state where we’re all ready for it, hitting refresh refresh refresh. It’ll come and blow our minds. That might be hogwash; let’s say the best photograph ever was probably taken from one of the Apollo missions when they turned to look back at earth rising over the moon with one of those tricked-out, interstellar NASA Hasselblads.
+
+---

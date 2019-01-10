@@ -46,3 +46,5 @@ Leaning in, we’re at an entrance of a kind of wooden structure, perhaps makesh
 What amazes me isn’t that Tod Papageorge was there, and ready, and brought this photograph back to show us, but that this point of view existed in the first place. What a world we live in where life was once like this, so perfectly shaggy and focused, contradictory and clear.
 
 — [Michael David Murphy](http://michaeldavidmurphy.com), 2008
+
+---
