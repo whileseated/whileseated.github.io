@@ -32,7 +32,7 @@ It’s in this first decade of the new century that [Mark Alor Powell](http://ma
 
 **The photography game, as it were, had changed.**
 
-{% include image.html url="powell_2.jpeg" description="(Mark Alor Powell — \'La Juarez, Mexico City, 2013\')" %}
+{% include image.html url="/assets/powell_2.jpeg" description="(Mark Alor Powell — \'La Juarez, Mexico City, 2013\')" %}
 
 “**Foreign & Domestic**,” an exhibition at Columbus State University, opening March 12th, 2014, is a natural extension of photography’s new ubiquity. Both Pierce-Carlson and Powell were born in the United States, and currently live abroad; Powell with his family in Mexico City; Carlson with her husband in Vietnam. Beyond the similarities in their approach, they’re hyperlinked, in that both eagerly embraced photography’s digital tools to publish, popularize, and refine their own artistic ambitions.
 
