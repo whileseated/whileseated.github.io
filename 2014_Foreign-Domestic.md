@@ -14,6 +14,8 @@ slug: >-
 
 (An exhibition at Columbus State University, March 12th-April 19th, 2014)
 
+{% include image.html url="/assets/powell_1.jpeg" description="(Mark Alor Powell — \"Iztapalapa, Mexico City, 2012\")" %}
+
 **Depending on whom you ask, 2014 marks the 10th anniversary of photography’s “new ubiquity.”** In 2004, three years before the iPhone, [Flickr](http://web.archive.org/web/20040429160555/http://flickr.com/) was launched, empowering digital-savvy photographers to develop, grow, and share their work with the world, while reaching entirely new audiences.
 
 Feared at first by a photographic world that held tightly to decades worth of darkroom secrets, Flickr (and other [early photo-sharing](http://web.archive.org/web/20050312074453/http://www.fotolog.net/?nc) spaces) was a slow-motion fist through the darkroom’s door. Photographers who’d made their livelihood based on shooting, printing, and licensing of emulsions on film were suddenly looking over their shoulder as “Uncle Bob” was instantly going to make world-changing photographs and give them away for free.
