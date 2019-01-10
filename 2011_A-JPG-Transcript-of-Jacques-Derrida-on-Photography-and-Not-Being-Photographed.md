@@ -11,7 +11,7 @@ slug: >-
 ---
 # A JPG Transcript of Jacques Derrida on Photography and Not Being Photographed
 
-Since I began making photographs, I’ve been fascinated by [_not photographing_](http://unphotographable.com/) and the politics, problems, and peculiarities that surround what it means to make (or not make) a picture. Jacques Derrida, who famously refused photos of himself on his book own jackets, spoke of his photographic-fear in [this interview on youtube](http://www.youtube.com/watch?v=4RjLOxrloJ0), is from [this documentary](http://www.imdb.com/title/tt0303326/).
+Since I began making photographs, I’ve been fascinated by [_not photographing_](http://unphotographable.com/) and the politics, problems, and peculiarities that surround what it means to make (or not make) a picture. Jacques Derrida, who famously refused photos of himself on his book own jackets, spoke of his photographic-fear in [this interview excerpted on youtube](http://www.youtube.com/watch?v=4RjLOxrloJ0), from [this documentary](http://www.imdb.com/title/tt0303326/).
 
 Below, a transcript of the interview, as a sequence of cropped (and subtitled) screenshots.
 
